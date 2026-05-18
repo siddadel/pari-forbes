@@ -1,0 +1,41 @@
+name: Weekly Billionaire Tracker
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+
+  workflow_dispatch:
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: |
+          pip install -r requirements.txt
+
+      - run: python tracker.py
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          RECIPIENT: ${{ secrets.RECIPIENT }}
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add latest.csv latest.xlsx
+
+          git diff --cached --quiet || git commit -m "Update billionaire snapshot"
+
+          git push
