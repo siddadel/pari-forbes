@@ -1,13 +1,16 @@
 import requests
 import pandas as pd
 import streamlit as st
+from datetime import datetime
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 st.title("Live Indian Billionaires CSV")
 
 url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 
 params = {
-    "fields": "personName,finalWorth,countryOfCitizenship,source",
+    "fields": "personName,finalWorth,countryOfCitizenship,source,timestamp",
     "limit": 4000
 }
 
@@ -29,6 +32,11 @@ india_df = india_df.sort_values(
     by="finalWorth",
     ascending=False
 )
+
+
+india_df['inbillions'] = india_df['finalWorth']/1000
+india_df['time'] = df["timestamp"].apply(lambda ts: datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(ZoneInfo("Asia/Kolkata")))
+
 
 csv = india_df.to_csv(index=False)
 

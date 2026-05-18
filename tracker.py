@@ -46,7 +46,8 @@ params = {
         "finalWorth,"
         "countryOfCitizenship,"
         "rank,"
-        "source"
+        "source,"
+        "timestamp"
     ),
     "limit": 4000
 }
