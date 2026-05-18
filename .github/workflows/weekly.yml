@@ -6,24 +6,30 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   track:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - run: |
+      - name: Install dependencies
+        run: |
           pip install -r requirements.txt
 
-      - run: python tracker.py
+      - name: Run tracker
+        run: python tracker.py
         env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
@@ -36,6 +42,6 @@ jobs:
 
           git add latest.csv latest.xlsx
 
-          git diff --cached --quiet || git commit -m "Update billionaire snapshot"
+          git diff --cached --quiet || git commit -m "Update snapshot"
 
           git push
