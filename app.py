@@ -1,5 +1,8 @@
 import requests
 import pandas as pd
+import streamlit as st
+
+st.title("Live Indian Billionaires CSV")
 
 url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 
@@ -9,13 +12,7 @@ params = {
 }
 
 headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/136.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json,text/plain,*/*",
-    "Referer": "https://www.forbes.com/"
+    "User-Agent": "Mozilla/5.0"
 }
 
 r = requests.get(url, params=params, headers=headers)
@@ -33,8 +30,13 @@ india_df = india_df.sort_values(
     ascending=False
 )
 
-print(
-    india_df[
-        ["personName", "finalWorth", "source"]
-    ].head(20)
+csv = india_df.to_csv(index=False)
+
+st.download_button(
+    label="Download CSV",
+    data=csv,
+    file_name="india_billionaires.csv",
+    mime="text/csv"
 )
+
+st.dataframe(india_df)
