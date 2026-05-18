@@ -1,4 +1,5 @@
 latest.csv
 latest.xlsx
-snapshots/
+snapshots/venv/
+.venv/
 venv/

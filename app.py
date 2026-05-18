@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 import streamlit as st
-from datetime import datetime
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
@@ -33,10 +32,14 @@ india_df = india_df.sort_values(
     ascending=False
 )
 
-
-india_df['inbillions'] = india_df['finalWorth']/1000
-india_df['time'] = df["timestamp"].apply(lambda ts: datetime.fromtimestamp(ts, tz=timezone.utc).astimezone(ZoneInfo("Asia/Kolkata")))
-
+india_df['billions'] =  india_df['finalWorth']/1000
+india_df['time'] = df["timestamp"].apply(
+    lambda ts: (
+        datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
+        .astimezone(ZoneInfo("Asia/Kolkata"))
+        if pd.notnull(ts) else None
+    )
+)
 
 csv = india_df.to_csv(index=False)
 
