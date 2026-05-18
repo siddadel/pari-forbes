@@ -110,7 +110,7 @@ india_df["worth_billion_usd"] = (
 india_df['time'] = df["timestamp"].apply(
     lambda ts: (
         datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
-        .astimezone(ZoneInfo("Asia/Kolkata"))
+        .astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
         if pd.notnull(ts) else None
     )
 )
