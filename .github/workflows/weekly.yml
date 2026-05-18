@@ -40,7 +40,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add latest.csv latest.xlsx
+          git add latest.csv || true
+          git add latest.xlsx || true
 
           git diff --cached --quiet || git commit -m "Update snapshot"
 
