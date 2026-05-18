@@ -8,6 +8,9 @@ from pathlib import Path
 from datetime import datetime
 from email.message import EmailMessage
 
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
 # =========================================================
 # CONFIG
 # =========================================================
@@ -103,6 +106,14 @@ india_df = india_df.sort_values(
 india_df["worth_billion_usd"] = (
     india_df["finalWorth"] / 1000
 ).round(2)
+
+india_df['time'] = df["timestamp"].apply(
+    lambda ts: (
+        datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
+        .astimezone(ZoneInfo("Asia/Kolkata"))
+        if pd.notnull(ts) else None
+    )
+)
 
 india_df.reset_index(drop=True, inplace=True)
 
