@@ -19,7 +19,7 @@ url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 # 'csfDisplayFields', 'bios', 'abouts', 'philanthropyScore', 'wealthHistory'])
 params = {
     # "fields": "personName,finalWorth,countryOfCitizenship,source,industries,timestamp,date",
-    "fields": "personName,finalWorth,countryOfCitizenship,source,industries,timestamp,date,"+f"{','.join(['naturalId', 'name', 'year', 'uri', 'rank', 'listUri', 
+    "fields": f"{','.join(['naturalId', 'name', 'year', 'uri', 'rank', 'listUri', 
 'visible', 'position', 'imageExists', 'bio', 'finalWorth', 'person', 'personName', 
 'state', 'city', 'source', 'industries', 
 'countryOfCitizenship', 'timestamp', 'version', 
