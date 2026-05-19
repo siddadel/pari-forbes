@@ -9,7 +9,7 @@ st.title("Live Indian Billionaires CSV")
 url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 
 params = {
-    "fields": "personName,finalWorth,countryOfCitizenship,source,timestamp",
+    "fields": "personName,finalWorth,countryOfCitizenship,source,industry,timestamp",
     "limit": 4000
 }
 
