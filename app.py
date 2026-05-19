@@ -45,10 +45,20 @@ india_df['billions'] =  india_df['finalWorth']/1000
 india_df['time'] = df["timestamp"].apply(
     lambda ts: (
         datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
-        .astimezone(ZoneInfo("Asia/Kolkata"))
+        .astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
         if pd.notnull(ts) else None
     )
 )
+
+india_df['date'] = df["date"].apply(
+    lambda ts: (
+        datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
+        .astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
+        if pd.notnull(ts) else None
+    )
+)
+
+
 
 csv = india_df.to_csv(index=False)
 
