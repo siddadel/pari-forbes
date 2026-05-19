@@ -50,7 +50,10 @@ params = {
         "countryOfCitizenship,"
         "rank,"
         "source,"
-        "timestamp"
+        "timestamp",
+        "industries",
+        "city",
+        "gender"
     ),
     "limit": 4000
 }
