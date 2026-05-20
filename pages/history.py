@@ -56,10 +56,19 @@ india_df = india_df.sort_values(
 
 TOP_N = 10
 
-fig, ax = plt.subplots(figsize=(14, 7))
+fig, axes = plt.subplots(
+    nrows=TOP_N,
+    ncols=2,
+    figsize=(16, 20)
+)
 
-for _, row in india_df.head(TOP_N).iterrows():
-    
+axes = axes.flatten()
+
+# -----------------------------
+# Plot each billionaire
+# -----------------------------
+
+for ax, (_, row) in zip(axes, india_df.head(TOP_N).iterrows()):
     name = row["personName"]
 
     wealth_history = row.get("wealthHistory")
@@ -94,12 +103,12 @@ for _, row in india_df.head(TOP_N).iterrows():
     if len(dates) == 0:
         continue
 
-    ax.plot(
-        dates,
-        values,
-        label=name
-    )
 
+    ax.plot(dates, values)
+
+    ax.set_title(name)
+
+    ax.grid(True)
 # -----------------------------
 # Graph formatting
 # -----------------------------
