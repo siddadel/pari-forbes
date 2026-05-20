@@ -394,7 +394,6 @@ has_changes = (
     or len(significant)
 )
 
-has_changes = True
 if has_changes:
 
     msg = EmailMessage()
