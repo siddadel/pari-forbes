@@ -87,7 +87,7 @@ for _, row in india_df.iterrows():
     dates = []
     values = []
 
-    for point in wealth_history:
+    for point in wealth_history.items():
         
         st.write(point)
 
