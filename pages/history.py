@@ -63,8 +63,8 @@ india_df = india_df.sort_values(
 # st.write("DEBUG: first wealthHistory entry")
 
 # st.write(india_df.iloc[0]["wealthHistory"])
-for i in india_df.iloc[0]["wealthHistory"].keys():
-    st.write(i)
+# for i in india_df.iloc[0]["wealthHistory"].keys():
+#     st.write(i)
 # st.write(india_df.iloc[0]["wealthHistory"].items())
 
 # -----------------------------
@@ -76,7 +76,7 @@ for i in india_df.iloc[0]["wealthHistory"].keys():
 fig, ax = plt.subplots(figsize=(14, 7))
 
 for _, row in india_df.iterrows():
-
+    
     name = row["personName"]
 
     wealth_history = row.get("wealthHistory")
@@ -88,10 +88,12 @@ for _, row in india_df.iterrows():
     values = []
 
     for point in wealth_history:
-        p = point["lastDay"]
+        
+        st.write(point)
+
         # Adjust keys if needed after debugging
-        ts = p.get("date")
-        worth = p.get("value")
+        ts = point.get("date")
+        worth = point.get("value")
 
         if ts is None or worth is None:
             continue
