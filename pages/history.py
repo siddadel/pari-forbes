@@ -3,7 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-from datetime import datetime
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 # -----------------------------
 # Fetch Forbes data
@@ -80,7 +81,10 @@ for _, row in india_df.head(TOP_N).iterrows():
                 continue
 
             # Convert milliseconds timestamp
-            dt = datetime.fromtimestamp(ts / 1000)
+            # dt = datetime.fromtimestamp(ts / 1000)
+        
+            dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc).\
+                    astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
 
             dates.append(dt)
 
