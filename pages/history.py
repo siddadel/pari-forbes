@@ -62,6 +62,7 @@ for _, row in india_df.head(TOP_N).iterrows():
     values = []
 
     for item in wealth_history.items():
+        st.write(item[1])
         points = item[1]
         for point in points:
             # Adjust keys if needed after debugging
