@@ -87,23 +87,24 @@ for _, row in india_df.iterrows():
     dates = []
     values = []
 
-    for point in wealth_history.items():
-        
-        st.write(point)
+    for item in wealth_history.items():
+        points = item[1]
+        for point in points:
+            st.write(point)
 
-        # Adjust keys if needed after debugging
-        ts = point.get("date")
-        worth = point.get("value")
+            # Adjust keys if needed after debugging
+            ts = point.get("date")
+            worth = point.get("value")
 
-        if ts is None or worth is None:
-            continue
+            if ts is None or worth is None:
+                continue
 
-        # Convert milliseconds timestamp
-        dt = datetime.fromtimestamp(ts / 1000)
+            # Convert milliseconds timestamp
+            dt = datetime.fromtimestamp(ts / 1000)
 
-        dates.append(dt)
+            dates.append(dt)
 
-        values.append(worth)
+            values.append(worth)
 
     if len(dates) == 0:
         continue
