@@ -57,7 +57,7 @@ india_df = india_df.sort_values(
 
 fig, axes = plt.subplots(
     nrows=5,
-    ncols=1,
+    ncols=2,
     figsize=(16, 20)
 )
 
