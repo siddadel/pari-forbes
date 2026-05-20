@@ -90,8 +90,6 @@ for _, row in india_df.iterrows():
     for item in wealth_history.items():
         points = item[1]
         for point in points:
-            st.write(point)
-
             # Adjust keys if needed after debugging
             ts = point.get("date")
             worth = point.get("value")
