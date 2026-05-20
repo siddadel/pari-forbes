@@ -84,7 +84,8 @@ for _, row in india_df.head(TOP_N).iterrows():
             # dt = datetime.fromtimestamp(ts / 1000)
         
             dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc).\
-                    astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
+                    astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None).\
+                    strftime("%Y-%m-%d %H")
 
             dates.append(dt)
 
