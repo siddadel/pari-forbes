@@ -52,30 +52,16 @@ india_df = india_df.sort_values(
     ascending=False
 )
 
-# -----------------------------
-# Debugging output
-# -----------------------------
-
-# st.write("DEBUG: wealthHistory type")
-
-# st.write(type(india_df.iloc[0]["wealthHistory"]))
-
-# st.write("DEBUG: first wealthHistory entry")
-
-# st.write(india_df.iloc[0]["wealthHistory"])
-# for i in india_df.iloc[0]["wealthHistory"].keys():
-#     st.write(i)
-# st.write(india_df.iloc[0]["wealthHistory"].items())
 
 # -----------------------------
 # Plot all billionaires together
 # -----------------------------
 
-# TOP_N = 10
+TOP_N = 5
 
 fig, ax = plt.subplots(figsize=(14, 7))
 
-for _, row in india_df.iterrows():
+for _, row in india_df.head(TOP_N).iterrows():
     
     name = row["personName"]
 
