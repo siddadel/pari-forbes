@@ -18,8 +18,17 @@ params = {
 }
 
 headers = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": (
+        "Mozilla/5.0 "
+        "(Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 "
+        "(KHTML, like Gecko) "
+        "Chrome/136.0.0.0 Safari/537.36"
+    ),
+    "Referer": "https://www.forbes.com/",
+    "Accept": "application/json,text/plain,*/*"
 }
+
 
 r = requests.get(url, params=params, headers=headers)
 
@@ -39,7 +48,6 @@ india_df = india_df.sort_values(
     by="finalWorth",
     ascending=False
 )
-
 
 # -----------------------------
 # Plot all billionaires together
