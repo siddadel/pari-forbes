@@ -228,7 +228,7 @@ top_rank_jumps = existing.sort_values(
 # =========================================================
 
 html = f"""
-<h1>India Billionaire Weekly Update</h1>
+<h1>India Billionaire Notification</h1>
 
 <p>
 Generated:
