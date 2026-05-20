@@ -53,7 +53,7 @@ india_df = india_df.sort_values(
 # Plot all billionaires together
 # -----------------------------
 
-TOP_N = 1
+TOP_N = 10
 
 fig, ax = plt.subplots(figsize=(14, 7))
 
