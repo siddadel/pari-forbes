@@ -8,6 +8,7 @@ from datetime import datetime
 # -----------------------------
 # Fetch Forbes data
 # -----------------------------
+st.title("History Page")
 
 url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 
