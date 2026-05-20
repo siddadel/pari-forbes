@@ -68,11 +68,11 @@ st.write(india_df.iloc[0]["wealthHistory"])
 # Plot all billionaires together
 # -----------------------------
 
-TOP_N = 10
+# TOP_N = 10
 
 fig, ax = plt.subplots(figsize=(14, 7))
 
-for _, row in india_df.head(TOP_N).iterrows():
+for _, row in india_df.iterrows():
 
     name = row["personName"]
 
@@ -85,10 +85,10 @@ for _, row in india_df.head(TOP_N).iterrows():
     values = []
 
     for point in wealth_history:
-
+        p = point["lastDay"]
         # Adjust keys if needed after debugging
-        ts = point.get("date")
-        worth = point.get("value")
+        ts = p.get("date")
+        worth = p.get("value")
 
         if ts is None or worth is None:
             continue
