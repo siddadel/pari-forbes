@@ -67,7 +67,7 @@ axes = axes.flatten()
 # Plot each billionaire
 # -----------------------------
 
-for ax, (_, row) in zip(axes, india_df.head(10).iterrows()):
+for ax, (_, row) in zip(axes, india_df.head(20).iterrows()):
     name = row["personName"]
 
     wealth_history = row.get("wealthHistory")
