@@ -399,7 +399,7 @@ if has_changes:
     msg = EmailMessage()
 
     msg["Subject"] = (
-        "India Billionaire Weekly Changes"
+        "India Billionaire Change Notification"
     )
 
     msg["From"] = os.environ["EMAIL_ADDRESS"]
