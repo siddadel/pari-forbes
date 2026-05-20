@@ -56,15 +56,16 @@ india_df = india_df.sort_values(
 # Debugging output
 # -----------------------------
 
-st.write("DEBUG: wealthHistory type")
+# st.write("DEBUG: wealthHistory type")
 
-st.write(type(india_df.iloc[0]["wealthHistory"]))
+# st.write(type(india_df.iloc[0]["wealthHistory"]))
 
-st.write("DEBUG: first wealthHistory entry")
+# st.write("DEBUG: first wealthHistory entry")
 
-st.write(india_df.iloc[0]["wealthHistory"])
-st.write(india_df.iloc[0]["wealthHistory"].keys())
-st.write(india_df.iloc[0]["wealthHistory"].items())
+# st.write(india_df.iloc[0]["wealthHistory"])
+for i in india_df.iloc[0]["wealthHistory"].keys():
+    st.write(i)
+# st.write(india_df.iloc[0]["wealthHistory"].items())
 
 # -----------------------------
 # Plot all billionaires together
