@@ -208,12 +208,12 @@ significant = existing[
     >= SIGNIFICANT_CHANGE_MILLIONS
 ]
 
-top_gainers = significant.sort_values(
+top_gainers = existing.sort_values(
     by="wealth_change",
     ascending=False
 ).head(10)
 
-top_losers = significant.sort_values(
+top_losers = existing.sort_values(
     by="wealth_change",
     ascending=True
 ).head(10)
@@ -341,6 +341,32 @@ for _, row in top_rank_jumps.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>{row['rank_change']}</td>"
+        f"</tr>"
+    )
+
+html += "</table>"
+
+
+# ---------------------------------------------------------
+# ALL CHANGES
+# ---------------------------------------------------------
+
+html += """
+<h2>All Billionares</h2>
+
+<table border="1" cellpadding="6" cellspacing="0">
+<tr>
+<th>Name</th>
+<th>Change ($B)</th>
+</tr>
+"""
+
+for _, row in existing.iterrows():
+
+    html += (
+        f"<tr>"
+        f"<td>{row['personName']}</td>"
+        f"<td>{row['wealth_change_billion']}</td>"
         f"</tr>"
     )
 
