@@ -13,19 +13,7 @@ st.title("History Page")
 url = "https://www.forbes.com/forbesapi/person/rtb/0/position/true.json"
 
 params = {
-    "fields": (
-        "personName,"
-        "finalWorth,"
-        "countryOfCitizenship,"
-        "rank,"
-        "source,"
-        "industries,"
-        "timestamp,"
-        "date,"
-        "city,"
-        "gender,"
-        "wealthHistory"
-    ),
+    "fields": "personName,finalWorth,countryOfCitizenship,rank,source,industries,timestamp,date,city,gender,wealthHistory",
     "limit": 4000
 }
 
@@ -57,7 +45,7 @@ india_df = india_df.sort_values(
 # Plot all billionaires together
 # -----------------------------
 
-TOP_N = 5
+TOP_N = 1
 
 fig, ax = plt.subplots(figsize=(14, 7))
 
