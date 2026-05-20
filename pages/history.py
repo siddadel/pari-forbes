@@ -56,8 +56,8 @@ india_df = india_df.sort_values(
 
 
 fig, axes = plt.subplots(
-    nrows=10,
-    ncols=2,
+    nrows=25,
+    ncols=1,
     figsize=(16, 20)
 )
 
@@ -67,7 +67,7 @@ axes = axes.flatten()
 # Plot each billionaire
 # -----------------------------
 
-for ax, (_, row) in zip(axes, india_df.head(20).iterrows()):
+for ax, (_, row) in zip(axes, india_df.head(25).iterrows()):
     name = row["personName"]
 
     wealth_history = row.get("wealthHistory")
