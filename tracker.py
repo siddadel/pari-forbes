@@ -208,12 +208,12 @@ significant = existing[
     >= SIGNIFICANT_CHANGE_MILLIONS
 ]
 
-top_gainers = existing.sort_values(
+top_gainers = existing[existing["wealth_change"]>0].sort_values(
     by="wealth_change",
     ascending=False
 ).head(10)
 
-top_losers = existing.sort_values(
+top_losers = existing[existing["wealth_change"]<0].sort_values(
     by="wealth_change",
     ascending=True
 ).head(10)
