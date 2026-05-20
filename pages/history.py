@@ -63,6 +63,8 @@ st.write(type(india_df.iloc[0]["wealthHistory"]))
 st.write("DEBUG: first wealthHistory entry")
 
 st.write(india_df.iloc[0]["wealthHistory"])
+st.write(india_df.iloc[0]["wealthHistory"].keys())
+st.write(india_df.iloc[0]["wealthHistory"].items())
 
 # -----------------------------
 # Plot all billionaires together
