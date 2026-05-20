@@ -83,8 +83,8 @@ for _, row in india_df.head(TOP_N).iterrows():
             # Convert milliseconds timestamp
             # dt = datetime.fromtimestamp(ts / 1000)
         
-            dt = datetime.fromtimestamp(ts / 1000, tz=timezone.utc).\
-                    astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None)
+            dt = str(datetime.fromtimestamp(ts / 1000, tz=timezone.utc).\
+                    astimezone(ZoneInfo("Asia/Kolkata")).replace(tzinfo=None))
 
             dates.append(dt)
 
