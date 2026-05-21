@@ -293,8 +293,8 @@ for _, row in top_gainers.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>+{row['wealth_change_billion']}</td>"
-        f"<td>{row.get('wealth_change_old')}</td>"
-        f"<td>{row.get('wealth_change_new')}</td>"
+        f"<td>{row.get('finalWorth_old')}</td>"
+        f"<td>{row.get('finalWorth_new')}</td>"
         f"</tr>"
     )
 
@@ -322,8 +322,8 @@ for _, row in top_losers.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>{row['wealth_change_billion']}</td>"
-        f"<td>{row.get('wealth_change_old')}</td>"
-        f"<td>{row.get('wealth_change_new')}</td>"
+        f"<td>{row.get('finalWorth_old')}</td>"
+        f"<td>{row.get('finalWorth_new')}</td>"
         f"</tr>"
     )
 
