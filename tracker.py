@@ -266,7 +266,7 @@ if len(removed):
     for _, row in removed.iterrows():
 
         html += (
-            f"<li>{row['personName']}, Old Wealth: {row['wealth_change_old']}, New Wealth: {row['wealth_change_new']}</td>"
+            f"<li>{row['personName']}, Old Wealth: {row.get('wealth_change_old')}, New Wealth: {row.get('wealth_change_new')}</td>"
         )
 
     html += "</ul>"
@@ -293,8 +293,8 @@ for _, row in top_gainers.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>+{row['wealth_change_billion']}</td>"
-        f"<td>{row['wealth_change_old']}</td>"
-        f"<td>{row['wealth_change_new']}</td>"
+        f"<td>{row.get('wealth_change_old')}</td>"
+        f"<td>{row.get('wealth_change_new')}</td>"
         f"</tr>"
     )
 
@@ -322,8 +322,8 @@ for _, row in top_losers.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>{row['wealth_change_billion']}</td>"
-        f"<td>{row['wealth_change_old']}</td>"
-        f"<td>{row['wealth_change_new']}</td>"
+        f"<td>{row.get('wealth_change_old')}</td>"
+        f"<td>{row.get('wealth_change_new')}</td>"
         f"</tr>"
     )
 
@@ -351,8 +351,8 @@ for _, row in top_rank_jumps.iterrows():
         f"<tr>"
         f"<td>{row['personName']}</td>"
         f"<td>{row['rank_change']}</td>"
-        f"<td>{row["rank_old"]}</td>"
-        f"<td>{row["rank_new"]}</td>"
+        f"<td>{row.get("rank_old")}</td>"
+        f"<td>{row.get("rank_new")}</td>"
         f"</tr>"
     )
 
