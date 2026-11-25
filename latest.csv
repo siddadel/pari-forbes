@@ -1,240 +1,240 @@
 rank,finalWorth,finalWorthBillions,personName,city,source,industries,countryOfCitizenship,timestamp,gender,worth_billion_usd,time
-21,94268.542,94.268542,Mukesh Ambani,Mumbai,Diversified,['Diversified'],India,1795538102207,M,94.27,2026-11-24 22:05:02.207
-25,84609.748,84.60974800000001,Gautam Adani,Ahmedabad,"Infrastructure, commodities",['Diversified'],India,1795538102207,M,84.61,2026-11-24 22:05:02.207
-47,41092.206,41.092206,Savitri Jindal & family,Hisar,Steel,['Metals & Mining'],India,1795538102207,F,41.09,2026-11-24 22:05:02.207
-72,30800.497,30.800497,Shiv Nadar,Delhi,Software services,['Technology'],India,1795538102207,M,30.8,2026-11-24 22:05:02.207
-73,30320.192,30.320192,Cyrus Poonawalla,Pune,Vaccines,['Healthcare'],India,1795538102207,M,30.32,2026-11-24 22:05:02.207
-86,27340.781,27.340781,Lakshmi Mittal,,Steel,['Metals & Mining'],India,1795538102207,M,27.34,2026-11-24 22:05:02.207
-88,26936.206,26.936206,Dilip Shanghvi,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102207,M,26.94,2026-11-24 22:05:02.207
-114,22490.603,22.490603,Kumar Birla,Mumbai,Diversified,['Diversified'],India,1795538102207,M,22.49,2026-11-24 22:05:02.207
-167,17000.855,17.000854999999998,Murali Divi & family,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102207,M,17.0,2026-11-24 22:05:02.207
-173,16705.261,16.705261,Uday Kotak,Mumbai,Banking,['Finance & Investments'],India,1795538102207,M,16.71,2026-11-24 22:05:02.207
-179,16256.181,16.256181,Kushal Pal Singh,London,Real estate,['Real Estate'],India,1795538102207,M,16.26,2026-11-24 22:05:02.207
-193,15211.492,15.211492,Sunil Mittal,Delhi,Telecom,['Telecom'],India,1795538102207,M,15.21,2026-11-24 22:05:02.207
-215,13629.399,13.629399,Radhakishan Damani,Mumbai,"Retail, investments",['Fashion & Retail'],India,1795538102207,M,13.63,2026-11-24 22:05:02.207
-238,12633.121,12.633121,Vikram Lal & family,Delhi,Motorcycles,['Automotive'],India,1795538102207,M,12.63,2026-11-24 22:05:02.207
-301,11118.217,11.118217000000001,Ravi Jaipuria,Delhi,"Soft drinks, fast food",['Food & Beverage'],India,1795538102207,M,11.12,2026-11-24 22:05:02.207
-333,10266.59,10.26659,Pankaj Patel,Ahmedabad,Pharmaceuticals,['Healthcare'],India,1795538102207,M,10.27,2026-11-24 22:05:02.207
-347,9951.442,9.951441999999998,Rajan Mittal,Delhi,Telecom,['Telecom'],India,1795538102207,M,9.95,2026-11-24 22:05:02.207
-348,9927.587,9.927586999999999,Rakesh Mittal,Delhi,Telecom,['Telecom'],India,1795538102207,M,9.93,2026-11-24 22:05:02.207
-404,8932.727,8.932727000000002,Rekha Jhunjhunwala,Mumbai,Investments,['Finance & Investments'],India,1795538102208,F,8.93,2026-11-24 22:05:02.208
-441,8445.8,8.445799999999998,Hasmukh Chudgar & family,Ahmedabad,Pharmaceuticals,['Healthcare'],India,1795538102208,M,8.45,2026-11-24 22:05:02.208
-460,8190.438,8.190438,Azim Premji,Bangalore,Software services,['Technology'],India,1795538102208,M,8.19,2026-11-24 22:05:02.208
-465,8103.704,8.103704,Venu Srinivasan,Chennai,Two-wheelers,['Automotive'],India,1795538102208,M,8.1,2026-11-24 22:05:02.208
-471,8000.677,8.000677,Sudhir Mehta,Ahmedabad,"Pharmaceuticals, power",['Healthcare'],India,1795538102208,M,8.0,2026-11-24 22:05:02.208
-472,8000.562,8.000562,Samir Mehta,Ahmedabad,"Pharmaceuticals, power",['Healthcare'],India,1795538102208,M,8.0,2026-11-24 22:05:02.208
-488,7864.028,7.864028,Rahul Bhatia,Delhi,Aviation,['Service'],India,1795538102208,M,7.86,2026-11-24 22:05:02.208
-501,7705.752,7.705752,Satyanarayan Nuwal,Nagpur,Industrial explosives,['Manufacturing'],India,1795538102208,M,7.71,2026-11-24 22:05:02.208
-540,7321.628,7.321628,Mangal Prabhat Lodha,Mumbai,Real estate,['Real Estate'],India,1795538102208,M,7.32,2026-11-24 22:05:02.208
-626,6288.247,6.288247,Benu Gopal Bangur,Kolkata,Cement,['Manufacturing'],India,1795538102208,M,6.29,2026-11-24 22:05:02.208
-677,6000.0,6.0,Renuka Jagtiani,Dubai,Retail,['Fashion & Retail'],India,1795538102208,F,6.0,2026-11-24 22:05:02.208
-689,5883.371,5.883371,M.A. Yusuff Ali,Abu Dhabi,Retail,['Fashion & Retail'],India,1795538102208,M,5.88,2026-11-24 22:05:02.208
-702,5838.858,5.838858,Chandru Raheja,Mumbai,Real estate,['Real Estate'],India,1795538102208,M,5.84,2026-11-24 22:05:02.208
-704,5835.723,5.835723,Falguni Nayar,Mumbai,Retailing,['Fashion & Retail'],India,1795538102208,F,5.84,2026-11-24 22:05:02.208
-715,5779.763,5.779763,Rajiv Bajaj,Pune,Diversified,['Diversified'],India,1795538102208,M,5.78,2026-11-24 22:05:02.208
-715,5779.763,5.779763,Sanjiv Bajaj,Pune,Diversified,['Diversified'],India,1795538102208,M,5.78,2026-11-24 22:05:02.208
-719,5745.99,5.74599,Balkrishan Goenka,Mumbai,Diversified,['Manufacturing'],India,1795538102208,M,5.75,2026-11-24 22:05:02.208
-751,5556.885,5.556885,Joy Alukkas,Cochin,Jewelry,['Fashion & Retail'],India,1795538102208,M,5.56,2026-11-24 22:05:02.208
-764,5473.202,5.473202000000001,Vikas Oberoi,Mumbai,Real estate,['Real Estate'],India,1795538102208,M,5.47,2026-11-24 22:05:02.208
-784,5354.342,5.354342,Gopikishan Damani,Mumbai,"Retail, investments",['Fashion & Retail'],India,1795538102208,M,5.35,2026-11-24 22:05:02.208
-796,5259.703,5.259703,Abhay Firodia,Pune,Automobiles,['Automotive'],India,1795538102208,M,5.26,2026-11-24 22:05:02.208
-799,5236.557,5.2365569999999995,Kailashchandra Nuwal,Nagpur,Industrial explosives,['Manufacturing'],India,1795538102208,M,5.24,2026-11-24 22:05:02.208
-804,5192.52,5.19252,Jamshyd Godrej,Mumbai,"Consumer goods, real estate",['Real Estate'],India,1795538102208,M,5.19,2026-11-24 22:05:02.208
-805,5192.515,5.192515,Smita Crishna Godrej,Mumbai,Consumer goods,['Diversified'],India,1795538102208,F,5.19,2026-11-24 22:05:02.208
-820,5096.638,5.096638,B. Partha Saradhi Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102209,M,5.1,2026-11-24 22:05:02.209
-844,4957.904,4.957904,Nirmal Minda,Gurgaon,Auto parts,['Automotive'],India,1795538102209,M,4.96,2026-11-24 22:05:02.209
-864,4850.35,4.850350000000001,Nithin Kamath,Bangalore,Financial services,['Finance & Investments'],India,1795538102209,M,4.85,2026-11-24 22:05:02.209
-865,4847.013,4.847013,Nusli Wadia,Mumbai,Consumer goods,['Food & Beverage'],India,1795538102209,M,4.85,2026-11-24 22:05:02.209
-882,4750.864,4.750864,Baba Kalyani,Pune,Engineering,['Automotive'],India,1795538102209,M,4.75,2026-11-24 22:05:02.209
-912,4611.259,4.611259,Harsh Mariwala,Mumbai,Consumer goods,['Food & Beverage'],India,1795538102209,M,4.61,2026-11-24 22:05:02.209
-931,4511.167,4.511167,Mahendra Choksi & family,Mumbai,Paints,['Manufacturing'],India,1795538102209,M,4.51,2026-11-24 22:05:02.209
-953,4392.079,4.392079,P.V. Ramprasad Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102209,M,4.39,2026-11-24 22:05:02.209
-954,4382.607,4.382607,Karsanbhai Patel,Ahmedabad,"Consumer goods, cement",['Diversified'],India,1795538102209,M,4.38,2026-11-24 22:05:02.209
-968,4338.121,4.338121,Anil Agarwal & family,London,"mining, metals",['Metals & Mining'],India,1795538102209,M,4.34,2026-11-24 22:05:02.209
-971,4308.241,4.308241,Ajay Piramal,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102209,M,4.31,2026-11-24 22:05:02.209
-976,4293.759,4.293759,Prathap Reddy,Chennai,Healthcare,['Healthcare'],India,1795538102209,M,4.29,2026-11-24 22:05:02.209
-1008,4165.886,4.165886,N.R. Narayana Murthy,Bangalore,Software services,['Technology'],India,1795538102209,M,4.17,2026-11-24 22:05:02.209
-1009,4162.617,4.162617,Shekhar Bajaj,Mumbai,Diversified,['Diversified'],India,1795538102209,M,4.16,2026-11-24 22:05:02.209
-1010,4162.587,4.162587,Kumud Bajaj,Mumbai,Diversified,['Diversified'],India,1795538102209,F,4.16,2026-11-24 22:05:02.209
-1010,4162.587,4.162587,Niraj Bajaj,Mumbai,Diversified,['Diversified'],India,1795538102209,M,4.16,2026-11-24 22:05:02.209
-1017,4140.355,4.140355,Ranjan Pai,Bangalore,"Education, healthcare",['Healthcare'],India,1795538102209,M,4.14,2026-11-24 22:05:02.209
-1028,4083.494,4.083494,Anand Mahindra,Mumbai,Diversified,['Diversified'],India,1795538102209,M,4.08,2026-11-24 22:05:02.209
-1032,4069.877,4.069877,Vivek Jain,Delhi,Chemicals,['Manufacturing'],India,1795538102209,M,4.07,2026-11-24 22:05:02.209
-1033,4036.065,4.036065,Ravi Pillai,Dubai,Construction,['Construction & Engineering'],India,1795538102209,M,4.04,2026-11-24 22:05:02.209
-1043,4000.0,4.0,Sunny Varkey,Dubai,Education,['Service'],India,1795538102209,M,4.0,2026-11-24 22:05:02.209
-1053,3966.05,3.96605,T.S. Kalyanaraman,Thrissur,Jewelry,['Fashion & Retail'],India,1795538102209,M,3.97,2026-11-24 22:05:02.209
-1054,3960.905,3.9609050000000003,Nadir Godrej,Mumbai,"Consumer goods, real estate",['Diversified'],India,1795538102209,M,3.96,2026-11-24 22:05:02.209
-1077,3874.799,3.874799,Adi Godrej,Mumbai,Consumer goods,['Diversified'],India,1795538102209,M,3.87,2026-11-24 22:05:02.209
-1081,3832.886,3.832886,G. M. Rao,Bangalore,Infrastructure,['Logistics'],India,1795538102209,M,3.83,2026-11-24 22:05:02.209
-1101,3753.403,3.7534029999999996,Sanjiv Goenka,Kolkata,Diversified,['Diversified'],India,1795538102209,M,3.75,2026-11-24 22:05:02.209
-1111,3722.492,3.7224920000000004,Harish Ahuja,Delhi,Apparel,['Manufacturing'],India,1795538102209,M,3.72,2026-11-24 22:05:02.209
-1136,3627.64,3.62764,Alpana Dangi,Mumbai,Investments,['Finance & Investments'],India,1795538102209,F,3.63,2026-11-24 22:05:02.209
-1145,3593.197,3.593197,Leena Tewari,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102209,F,3.59,2026-11-24 22:05:02.209
-1157,3547.224,3.5472240000000004,Vinod Rai Gupta,Delhi,Electrical equipment,['Manufacturing'],India,1795538102209,F,3.55,2026-11-24 22:05:02.209
-1166,3508.839,3.508839,Madhukar Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795538102209,M,3.51,2026-11-24 22:05:02.209
-1182,3430.048,3.4300479999999998,Atul Ruia,Mumbai,Real estate,['Real Estate'],India,1795538102209,M,3.43,2026-11-24 22:05:02.209
-1217,3364.0,3.364,Arvind Tiku,Singapore,"Renewable energy, real estate",['Energy'],India,1795538102210,M,3.36,2026-11-24 22:05:02.210
-1242,3278.3,3.2783,Shiv Kishan Agrawal,Nagpur,Snacks,['Food & Beverage'],India,1795538102210,M,3.28,2026-11-24 22:05:02.210
-1254,3241.721,3.241721,Satyanarayana Chava,Hyderabad,pharmaceuticals,['Healthcare'],India,1795538102210,M,3.24,2026-11-24 22:05:02.210
-1255,3241.152,3.241152,Ramesh Juneja,Delhi,Pharmaceuticals,['Healthcare'],India,1795538102210,M,3.24,2026-11-24 22:05:02.210
-1264,3206.938,3.206938,Rajan Raheja & family,Mumbai,Diversified,['Diversified'],India,1795538102210,M,3.21,2026-11-24 22:05:02.210
-1276,3186.667,3.186667,Nikhil Kamath,Bangalore,Financial services,['Finance & Investments'],India,1795538102210,M,3.19,2026-11-24 22:05:02.210
-1277,3185.447,3.185447,Rajeev Juneja,Delhi,Phamaceuticals,['Healthcare'],India,1795538102210,M,3.19,2026-11-24 22:05:02.210
-1287,3159.304,3.159304,Anand Deshpande,Pune,Technology,['Technology'],India,1795538102210,M,3.16,2026-11-24 22:05:02.210
-1289,3157.42,3.15742,Senapathy Gopalakrishnan,Bangalore,Software services,['Technology'],India,1795538102210,M,3.16,2026-11-24 22:05:02.210
-1306,3110.129,3.1101289999999997,Mahima Datla,Hyderabad,Vaccines,['Healthcare'],India,1795538102210,F,3.11,2026-11-24 22:05:02.210
-1307,3107.858,3.1078580000000002,Arun Bharat Ram,Delhi,Chemicals,['Manufacturing'],India,1795538102210,M,3.11,2026-11-24 22:05:02.210
-1309,3102.588,3.1025880000000003,Kiran Mazumdar-Shaw,,Biopharmaceuticals,['Healthcare'],India,1795538102210,F,3.1,2026-11-24 22:05:02.210
-1331,3051.89,3.0518899999999998,Ajay Bhardwaj,Bangalore,Biopharma,['Healthcare'],India,1795538102210,M,3.05,2026-11-24 22:05:02.210
-1362,2978.091,2.978091,Arvind Poddar,Mumbai,Tires,['Automotive'],India,1795538102210,M,2.98,2026-11-24 22:05:02.210
-1403,2895.0,2.895,Karthik Sarma,New York,Hedge fund,['Finance & Investments'],India,1795538102210,M,2.9,2026-11-24 22:05:02.210
-1410,2875.329,2.8753290000000002,Harindarpal Banga,Hong Kong,Commodities ,['Finance & Investments'],India,1795538102210,M,2.88,2026-11-24 22:05:02.210
-1420,2859.642,2.859642,Raamdeo Agrawal,Mumbai,Financial services,['Finance & Investments'],India,1795538102210,M,2.86,2026-11-24 22:05:02.210
-1438,2811.917,2.8119169999999998,Sunil Vachani,Delhi,Electronics,['Manufacturing'],India,1795538102210,M,2.81,2026-11-24 22:05:02.210
-1440,2808.706,2.808706,Kalanithi Maran,Chennai,Media,['Media & Entertainment'],India,1795538102210,M,2.81,2026-11-24 22:05:02.210
-1442,2806.593,2.806593,M.Satyanarayana Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102210,M,2.81,2026-11-24 22:05:02.210
-1452,2783.829,2.7838290000000003,Harsh Goenka,Mumbai,Diversified,['Diversified'],India,1795538102210,M,2.78,2026-11-24 22:05:02.210
-1453,2783.678,2.783678,Devi Shetty,Bangalore,Healthcare,['Healthcare'],India,1795538102210,M,2.78,2026-11-24 22:05:02.210
-1467,2763.4,2.7634000000000003,Manohar Lal Agarwal,Delhi,Snacks,['Food & Beverage'],India,1795538102210,M,2.76,2026-11-24 22:05:02.210
-1481,2732.233,2.7322330000000004,Sanjeev Bikhchandani,Delhi,Internet,['Technology'],India,1795538102210,M,2.73,2026-11-24 22:05:02.210
-1498,2705.682,2.705682,Lalit Khaitan,Delhi,alcohol,['Food & Beverage'],India,1795538102210,M,2.71,2026-11-24 22:05:02.210
-1519,2641.806,2.641806,Abhay Soi,Mumbai,Healthcare,['Healthcare'],India,1795538102210,M,2.64,2026-11-24 22:05:02.210
-1529,2618.789,2.618789,Surender Saluja,Hyderabad,Solar energy,['Energy'],India,1795538102210,M,2.62,2026-11-24 22:05:02.210
-1540,2600.772,2.600772,Satish Mehta,Pune,Pharmaceuticals,['Healthcare'],India,1795538102210,M,2.6,2026-11-24 22:05:02.210
-1555,2577.766,2.577766,Lachhman Das Mittal,Delhi,Tractors,['Automotive'],India,1795538102210,M,2.58,2026-11-24 22:05:02.210
-1564,2561.246,2.561246,Yusuf Hamied,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102210,M,2.56,2026-11-24 22:05:02.210
-1567,2556.313,2.5563130000000003,Gurbachan Singh Dhingra,Delhi,Paints,['Manufacturing'],India,1795538102210,M,2.56,2026-11-24 22:05:02.210
-1567,2556.313,2.5563130000000003,Kuldip Singh Dhingra,Delhi,Paints,['Manufacturing'],India,1795538102210,M,2.56,2026-11-24 22:05:02.210
-1585,2534.702,2.5347020000000002,Nandan Nilekani,Bangalore,Software services,['Technology'],India,1795538102210,M,2.53,2026-11-24 22:05:02.210
-1592,2522.244,2.522244,Prem Kumar Arora,Delhi,Pharmaceuticals,['Healthcare'],India,1795538102210,M,2.52,2026-11-24 22:05:02.210
-1604,2493.888,2.493888,Pavan Jain,Delhi,Chemicals,['Manufacturing'],India,1795538102210,M,2.49,2026-11-24 22:05:02.210
-1609,2476.417,2.476417,Motilal Oswal,Mumbai,Financial services,['Finance & Investments'],India,1795538102210,M,2.48,2026-11-24 22:05:02.210
-1643,2417.622,2.4176219999999997,Aditya Khemka,Delhi,Security solutions,['Manufacturing'],India,1795538102210,M,2.42,2026-11-24 22:05:02.210
-1658,2393.44,2.39344,Ajay Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795538102210,M,2.39,2026-11-24 22:05:02.210
-1666,2376.286,2.376286,Narendrakumar Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795538102210,M,2.38,2026-11-24 22:05:02.210
-1694,2345.704,2.345704,Rishad Naoroji,Mumbai,"Consumer goods, real estate",['Diversified'],India,1795538102210,M,2.35,2026-11-24 22:05:02.210
-1713,2309.772,2.3097719999999997,Acharya Balkrishna,Haridwar,Consumer goods,['Food & Beverage'],India,1795538102210,M,2.31,2026-11-24 22:05:02.210
-1732,2290.28,2.29028,Manoj Upadhyay,Gurgaon,solar energy,['Energy'],India,1795538102210,M,2.29,2026-11-24 22:05:02.210
-1762,2261.198,2.261198,Jupally Rameshwar Rao,Hyderabad,Real estate,['Real Estate'],India,1795538102210,M,2.26,2026-11-24 22:05:02.210
-1774,2250.182,2.2501819999999997,T. Satishkumar,Erode,Dairy products,['Food & Beverage'],India,1795538102210,M,2.25,2026-11-24 22:05:02.210
-1783,2240.971,2.240971,Anurang Jain,Aurangabad,Auto parts,['Manufacturing'],India,1795538102210,M,2.24,2026-11-24 22:05:02.210
-1791,2222.256,2.222256,Anu Aga,Pune,Engineering,['Construction & Engineering'],India,1795538102210,F,2.22,2026-11-24 22:05:02.210
-1825,2170.336,2.170336,Inder Jaisinghani,Mumbai,Cables & wires,['Manufacturing'],India,1795538102210,M,2.17,2026-11-24 22:05:02.210
-1826,2170.055,2.1700549999999996,Kishore Jain,Chennai,Jewellery,['Fashion & Retail'],India,1795538102210,M,2.17,2026-11-24 22:05:02.210
-1837,2154.338,2.154338,Kabir Mulchandani,Dubai,Real estate,['Real Estate'],India,1795538102210,M,2.15,2026-11-24 22:05:02.210
-1852,2146.044,2.146044,Bhadresh Shah,Ahmedabad,Engineering,['Manufacturing'],India,1795538102210,M,2.15,2026-11-24 22:05:02.210
-1876,2120.127,2.120127,Basudeo Singh,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102211,M,2.12,2026-11-24 22:05:02.211
-1880,2118.301,2.1183009999999998,George Alexander Muthoot,Ernakulam,Financial services,['Finance & Investments'],India,1795538102211,M,2.12,2026-11-24 22:05:02.211
-1880,2118.301,2.1183009999999998,George Jacob Muthoot,Trivandrum,Financial services,['Finance & Investments'],India,1795538102211,M,2.12,2026-11-24 22:05:02.211
-1880,2118.301,2.1183009999999998,George Thomas Muthoot,Kottayam,Financial services,['Finance & Investments'],India,1795538102211,M,2.12,2026-11-24 22:05:02.211
-1880,2118.301,2.1183009999999998,Sara George Muthoot,Delhi,Financial services,['Finance & Investments'],India,1795538102211,F,2.12,2026-11-24 22:05:02.211
-1892,2105.077,2.105077,Ramesh Jaisinghani,Mumbai,Cables and wires,['Manufacturing'],India,1795538102211,M,2.11,2026-11-24 22:05:02.211
-1894,2103.198,2.103198,Ajay Jaisinghani,Mumbai,Wires and cables,['Manufacturing'],India,1795538102211,M,2.1,2026-11-24 22:05:02.211
-1898,2100.0,2.1,Aravind Srinivas,San Francisco,Artificial intelligence ,['Technology'],India,1795538102211,M,2.1,2026-11-24 22:05:02.211
-1906,2097.019,2.097019,Arvind Lal,Delhi,Medical diagnostics,['Healthcare'],India,1795538102211,M,2.1,2026-11-24 22:05:02.211
-1916,2088.813,2.088813,Deepinder Goyal,Gurgaon,Food delivery service,['Service'],India,1795538102211,M,2.09,2026-11-24 22:05:02.211
-1921,2083.356,2.083356,Radha Vembu,Chennai,Business software,['Technology'],India,1795538102211,F,2.08,2026-11-24 22:05:02.211
-1925,2075.319,2.075319,Mrudula Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795538102211,F,2.08,2026-11-24 22:05:02.211
-1939,2065.326,2.065326,Vivek Chand Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795538102211,M,2.07,2026-11-24 22:05:02.211
-1948,2047.071,2.047071,K. Dinesh,Bangalore,Software services,['Technology'],India,1795538102211,M,2.05,2026-11-24 22:05:02.211
-1957,2036.773,2.0367729999999997,G. Rajendran,Chennai,Jewellery,['Fashion & Retail'],India,1795538102211,M,2.04,2026-11-24 22:05:02.211
-1977,2021.76,2.02176,Bina Chhabria,Mumbai,Alcoholic beverages,['Food & Beverage'],India,1795538102211,F,2.02,2026-11-24 22:05:02.211
-1978,2020.602,2.0206020000000002,Anju Agarwal,Chennai,Pharmaceuticals,['Healthcare'],India,1795538102211,F,2.02,2026-11-24 22:05:02.211
-1982,2015.435,2.015435,Hemendra Kothari,Mumbai,Financial services,['Finance & Investments'],India,1795538102211,M,2.02,2026-11-24 22:05:02.211
-1993,2007.755,2.007755,P.V. Krishna Reddy,Hyderabad,Infrastructure,['Construction & Engineering'],India,1795538102211,M,2.01,2026-11-24 22:05:02.211
-2039,1962.813,1.9628130000000001,Sandeep Engineer,Ahmedabad,Plastic pipes,['Manufacturing'],India,1795538102211,M,1.96,2026-11-24 22:05:02.211
-2040,1960.329,1.960329,Pawan Munjal,Delhi,Motorcycles,['Automotive'],India,1795538102211,M,1.96,2026-11-24 22:05:02.211
-2047,1957.362,1.957362,Shamsheer Vayalil,Abu Dhabi,Healthcare,['Healthcare'],India,1795538102211,M,1.96,2026-11-24 22:05:02.211
-2056,1949.908,1.949908,Azad Moopen,Dubai,Healthcare,['Healthcare'],India,1795538102211,M,1.95,2026-11-24 22:05:02.211
-2074,1932.882,1.932882,P.P. Reddy,Hyderabad,Infrastructure,['Construction & Engineering'],India,1795538102211,M,1.93,2026-11-24 22:05:02.211
-2084,1919.958,1.919958,R.G. Chandramogan,Chennai,Dairy,['Food & Beverage'],India,1795538102211,M,1.92,2026-11-24 22:05:02.211
-2115,1878.452,1.878452,Suman Munjal,Delhi,Motorcycles,['Automotive'],India,1795538102211,M,1.88,2026-11-24 22:05:02.211
-2117,1875.39,1.8753900000000001,Rafique Malik,Mumbai,Footwear,['Fashion & Retail'],India,1795538102211,M,1.88,2026-11-24 22:05:02.211
-2121,1873.541,1.873541,Girdhari Lal Bawri,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102211,M,1.87,2026-11-24 22:05:02.211
-2124,1870.735,1.8707349999999998,Renu Munjal,Delhi,Motorcycles,['Automotive'],India,1795538102211,F,1.87,2026-11-24 22:05:02.211
-2129,1867.93,1.86793,Habil Khorakiwala,Mumbai,pharmaceuticals,['Healthcare'],India,1795538102211,M,1.87,2026-11-24 22:05:02.211
-2139,1856.426,1.856426,Premchand Godha,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102211,M,1.86,2026-11-24 22:05:02.211
-2186,1818.546,1.818546,Banwari Lal Bawri,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102212,M,1.82,2026-11-24 22:05:02.212
-2209,1800.846,1.800846,Jitendra Virwani,Bangalore,Real estate,['Real Estate'],India,1795538102212,M,1.8,2026-11-24 22:05:02.212
-2226,1796.582,1.7965820000000001,Chirayu Amin,Baroda,Pharmaceuticals,['Healthcare'],India,1795538102212,M,1.8,2026-11-24 22:05:02.212
-2235,1791.577,1.791577,Ashwin Desai,Surat,Specialty chemicals,['Manufacturing'],India,1795538102212,M,1.79,2026-11-24 22:05:02.212
-2242,1784.923,1.784923,Chaitanya Desai,Mumbai,Electric cables,['Manufacturing'],India,1795538102212,M,1.78,2026-11-24 22:05:02.212
-2242,1784.923,1.784923,Kushal Desai,Mumbai,Electrical cables,['Manufacturing'],India,1795538102212,M,1.78,2026-11-24 22:05:02.212
-2262,1763.3,1.7632999999999999,Kapil Bhatia,Delhi,Aviation,['Service'],India,1795538102212,M,1.76,2026-11-24 22:05:02.212
-2268,1758.199,1.758199,Girdhari Jaisinghani,Mumbai,Cables & wires,['Manufacturing'],India,1795538102212,M,1.76,2026-11-24 22:05:02.212
-2307,1724.89,1.72489,Vijay Shekhar Sharma,Delhi,financial technology,['Service'],India,1795538102212,M,1.72,2026-11-24 22:05:02.212
-2312,1716.6,1.7166,Madhusudan Agarwal,New Dehli,Indian sweets and snacks,['Food & Beverage'],India,1795538102212,M,1.72,2026-11-24 22:05:02.212
-2313,1715.562,1.7155619999999998,Ronnie Screwvala,Mumbai,"edtech, entertainment",['Media & Entertainment'],India,1795538102212,M,1.72,2026-11-24 22:05:02.212
-2345,1679.471,1.679471,Surjit Kumar Gupta,Delhi,Electrical equipment,['Manufacturing'],India,1795538102212,M,1.68,2026-11-24 22:05:02.212
-2353,1665.381,1.665381,G.V. Prasad,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102212,M,1.67,2026-11-24 22:05:02.212
-2355,1664.712,1.664712,Shrikant Badve,Pune,auto parts,['Automotive'],India,1795538102212,M,1.66,2026-11-24 22:05:02.212
-2356,1663.164,1.663164,Satish Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102212,M,1.66,2026-11-24 22:05:02.212
-2358,1660.651,1.660651,Sachin Agarwal,Lucknow,Metal castings,['Manufacturing'],India,1795538102212,M,1.66,2026-11-24 22:05:02.212
-2384,1632.712,1.632712,D.V. Manjunatha,Bangalore,Solar panels,['Energy'],India,1795538102212,M,1.63,2026-11-24 22:05:02.212
-2387,1631.159,1.631159,Irfan Razack,Bangalore,Real estate,['Real Estate'],India,1795538102212,M,1.63,2026-11-24 22:05:02.212
-2388,1631.141,1.6311410000000002,Noaman Razack,Bangalore,Real estate,['Real Estate'],India,1795538102212,M,1.63,2026-11-24 22:05:02.212
-2388,1631.141,1.6311410000000002,Rezwan Razack,Bangalore,Real estate,['Real Estate'],India,1795538102212,M,1.63,2026-11-24 22:05:02.212
-2413,1613.856,1.613856,Sanjay Agarwal,Jaipur,Banking,['Finance & Investments'],India,1795538102212,M,1.61,2026-11-24 22:05:02.212
-2434,1595.194,1.595194,Shyam Bhartia,Delhi,"Pharmaceuticals, food",['Healthcare'],India,1795538102212,M,1.6,2026-11-24 22:05:02.212
-2438,1592.339,1.592339,Hari Bhartia,Delhi,Diversified,['Diversified'],India,1795538102212,M,1.59,2026-11-24 22:05:02.212
-2441,1589.625,1.589625,Kiran Kumar Jain,Chennai,Gold jewelry retailing,['Fashion & Retail'],India,1795538102212,M,1.59,2026-11-24 22:05:02.212
-2442,1588.254,1.5882539999999998,Alakh Pandey,Noida,Edtech,['Technology'],India,1795538102212,M,1.59,2026-11-24 22:05:02.212
-2442,1588.254,1.5882539999999998,Prateek Boob,Noida,Edtech,['Technology'],India,1795538102212,M,1.59,2026-11-24 22:05:02.212
-2457,1573.732,1.573732,S.D. Shibulal,Bangalore,Software services,['Technology'],India,1795538102212,M,1.57,2026-11-24 22:05:02.212
-2519,1535.178,1.5351780000000002,Anand Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795538102213,M,1.54,2026-11-24 22:05:02.213
-2521,1534.187,1.534187,Sekar Vembu,Chennai,Business software,['Technology'],India,1795538102213,M,1.53,2026-11-24 22:05:02.213
-2557,1503.029,1.503029,Naresh Jain,Mumbai,Auto components,['Automotive'],India,1795538102213,M,1.5,2026-11-24 22:05:02.213
-2559,1500.0,1.5,Prasanna Sankar,Singapore,software,['Technology'],India,1795538102213,M,1.5,2026-11-24 22:05:02.213
-2577,1492.965,1.4929649999999999,Saroj Rani Gupta,Delhi,Steel tubes,['Manufacturing'],India,1795538102213,F,1.49,2026-11-24 22:05:02.213
-2597,1476.76,1.47676,Aloke Lohia,Bangkok,Petrochemicals,['Manufacturing'],India,1795538102213,M,1.48,2026-11-24 22:05:02.213
-2598,1475.731,1.475731,Onkar Kanwar,Delhi,Tires,['Automotive'],India,1795538102213,M,1.48,2026-11-24 22:05:02.213
-2617,1461.384,1.461384,Paritosh Garg,Ludhiana,Manufacturing,['Manufacturing'],India,1795538102213,M,1.46,2026-11-24 22:05:02.213
-2618,1461.019,1.461019,Rajeev Gulati,Delhi,Food,['Food & Beverage'],India,1795538102213,M,1.46,2026-11-24 22:05:02.213
-2650,1432.06,1.4320599999999999,Naresh Trehan,Delhi,Hospitals,['Healthcare'],India,1795538102213,M,1.43,2026-11-24 22:05:02.213
-2651,1431.92,1.43192,Ravi Modi,Kolkata,Readymade garments,['Fashion & Retail'],India,1795538102213,M,1.43,2026-11-24 22:05:02.213
-2668,1415.267,1.415267,Rahul Dhoot,Aurangabad,Auto components,['Automotive'],India,1795538102213,M,1.42,2026-11-24 22:05:02.213
-2676,1410.163,1.410163,Binny Bansal,Singapore,Flipkart,['Technology'],India,1795538102213,M,1.41,2026-11-24 22:05:02.213
-2685,1406.693,1.406693,Nanu Gupta,Mumbai,Retail,['Fashion & Retail'],India,1795538102213,M,1.41,2026-11-24 22:05:02.213
-2687,1404.272,1.404272,Anil Gupta,New Delhi,Cables,['Manufacturing'],India,1795538102213,M,1.4,2026-11-24 22:05:02.213
-2722,1382.94,1.38294,Viren Doshi,Mumbai,Solar modules,['Energy'],India,1795538102213,M,1.38,2026-11-24 22:05:02.213
-2723,1382.682,1.382682,Rajesh Sharma,Mumbai,Finance,['Finance & Investments'],India,1795538102213,M,1.38,2026-11-24 22:05:02.213
-2747,1358.631,1.3586310000000001,Aluru Jagadish Prasad,Hyderabad,Batteries,['Manufacturing'],India,1795538102213,M,1.36,2026-11-24 22:05:02.213
-2773,1342.242,1.342242,Mofatraj Munot,Mumbai,Real estate,['Real Estate'],India,1795538102213,M,1.34,2026-11-24 22:05:02.213
-2778,1340.606,1.340606,Bhikhabai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795538102213,M,1.34,2026-11-24 22:05:02.213
-2806,1322.062,1.3220619999999998,Subbamma Jasti,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795538102213,F,1.32,2026-11-24 22:05:02.213
-2821,1313.881,1.313881,Ravi S.,Coimbatore,Automotive components,['Automotive'],India,1795538102213,M,1.31,2026-11-24 22:05:02.213
-2838,1302.518,1.302518,Lalit Keshre,Mumbai,Financial Services,['Finance & Investments'],India,1795538102213,M,1.3,2026-11-24 22:05:02.213
-2846,1293.901,1.293901,Dhruv Sawhney,Dubai,"Engineering, sugar",['Construction & Engineering'],India,1795538102213,M,1.29,2026-11-24 22:05:02.213
-2856,1286.351,1.286351,Krishna Kumar Bangur,Kolkata,Graphite electrodes,['Manufacturing'],India,1795538102213,M,1.29,2026-11-24 22:05:02.213
-2865,1276.368,1.276368,Bhaskara Rao Bollineni,Hyderabad,Healthcare,['Healthcare'],India,1795538102213,M,1.28,2026-11-24 22:05:02.213
-2892,1259.332,1.2593320000000001,Vidit Aatrey,Bangalore,E-commerce,['Fashion & Retail'],India,1795538102213,M,1.26,2026-11-24 22:05:02.213
-2897,1257.285,1.257285,Salil Singhal,Delhi,Agrochemicals,['Manufacturing'],India,1795538102213,M,1.26,2026-11-24 22:05:02.213
-2911,1249.935,1.249935,Ranga Raju Kanumuri,Hyderabad,Pharma,['Healthcare'],India,1795538102213,M,1.25,2026-11-24 22:05:02.213
-2928,1230.765,1.230765,Sujit Bhayani,Vadodara,Specialty chemicals,['Healthcare'],India,1795538102213,M,1.23,2026-11-24 22:05:02.213
-2936,1225.48,1.2254800000000001,Peyush Bansal,Faridabad,Retail,['Fashion & Retail'],India,1795538102213,M,1.23,2026-11-24 22:05:02.213
-2946,1221.345,1.2213450000000001,Rajju Shroff,Mumbai,Agrochemicals,['Manufacturing'],India,1795538102213,M,1.22,2026-11-24 22:05:02.213
-2970,1206.611,1.206611,Vinod Saraf,Mumbai,Chemicals,['Manufacturing'],India,1795538102213,M,1.21,2026-11-24 22:05:02.213
-2977,1202.858,1.202858,Hitesh Doshi,Mumbai,Solar panels,['Energy'],India,1795538102213,M,1.2,2026-11-24 22:05:02.213
-2980,1201.619,1.201619,Mustafa Hamied,Mumbai,Pharmaceuticals,['Healthcare'],India,1795538102213,M,1.2,2026-11-24 22:05:02.213
-2981,1201.237,1.201237,Pankaj Doshi,Mumbai,Solar panels,['Energy'],India,1795538102213,M,1.2,2026-11-24 22:05:02.213
-2994,1191.774,1.191774,Sanjeev Shah,Mumbai,Foods ,['Food & Beverage'],India,1795538102213,M,1.19,2026-11-24 22:05:02.213
-3020,1173.786,1.173786,C.C. Paarthipan,Chennai,pharmaceuticals,['Healthcare'],India,1795538102214,M,1.17,2026-11-24 22:05:02.214
-3026,1169.77,1.16977,Sachin Bansal,Bangalore,Flipkart,['Fashion & Retail'],India,1795538102214,M,1.17,2026-11-24 22:05:02.214
-3061,1147.033,1.147033,Ramesh Kunhikannan,Mysore,Electronics ,['Manufacturing'],India,1795538102214,M,1.15,2026-11-24 22:05:02.214
-3088,1129.256,1.129256,Suresh Krishna,Chennai,Auto parts,['Automotive'],India,1795538102214,M,1.13,2026-11-24 22:05:02.214
-3105,1120.632,1.120632,Kalpana Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795538102214,F,1.12,2026-11-24 22:05:02.214
-3114,1117.166,1.1171659999999999,Chandubhai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795538102214,M,1.12,2026-11-24 22:05:02.214
-3114,1117.166,1.1171659999999999,Kanjibhai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795538102214,M,1.12,2026-11-24 22:05:02.214
-3118,1115.019,1.115019,Kochouseph Chittilappilly,Kochi,Electrical appliances,['Manufacturing'],India,1795538102214,M,1.12,2026-11-24 22:05:02.214
-3145,1097.931,1.097931,Deepak Mehta,Vadodara,Chemicals,['Manufacturing'],India,1795538102214,M,1.1,2026-11-24 22:05:02.214
-3179,1076.688,1.076688,Kuldip Rathee,New Delhi,Auto ancillaries,['Automotive'],India,1795538102214,M,1.08,2026-11-24 22:05:02.214
-3182,1074.849,1.074849,Kirtikumar Mehta,Ahmedabad,Pharma,['Healthcare'],India,1795538102214,,1.07,2026-11-24 22:05:02.214
-3228,1044.376,1.044376,Kirit Doshi,Mumbai,Solar modules,['Energy'],India,1795538102214,M,1.04,2026-11-24 22:05:02.214
-3243,1035.08,1.03508,Parakramsinh Jadeja,Rajkot,Manufacturing,['Manufacturing'],India,1795538102214,M,1.04,2026-11-24 22:05:02.214
-3245,1033.394,1.033394,Analjit Singh,Delhi,Diversified,['Diversified'],India,1795538102214,M,1.03,2026-11-24 22:05:02.214
-3249,1031.325,1.031325,Harshil Mathur,Bangalore,Fintech,['Finance & Investments'],India,1795538102214,M,1.03,2026-11-24 22:05:02.214
-3249,1031.325,1.031325,Shashank Kumar,Bangalore,Fintech,['Finance & Investments'],India,1795538102214,M,1.03,2026-11-24 22:05:02.214
-3268,1020.495,1.020495,Ashok Kajaria,Delhi,Tiles,['Manufacturing'],India,1795538102214,M,1.02,2026-11-24 22:05:02.214
-3269,1019.293,1.019293,Amit Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795538102214,M,1.02,2026-11-24 22:05:02.214
-3274,1014.223,1.0142229999999999,Vijay Agarwal,Faridabad,Construction equipment,['Automotive'],India,1795538102214,M,1.01,2026-11-24 22:05:02.214
-3285,1001.239,1.001239,Rameshchandra Jain,Mumbai,Textiles,['Manufacturing'],India,1795538102214,M,1.0,2026-11-24 22:05:02.214
+21,94268.542,94.268542,Mukesh Ambani,Mumbai,Diversified,['Diversified'],India,1795568702170,M,94.27,2026-11-25 06:35:02.170
+25,84609.748,84.60974800000001,Gautam Adani,Ahmedabad,"Infrastructure, commodities",['Diversified'],India,1795568702170,M,84.61,2026-11-25 06:35:02.170
+47,41092.206,41.092206,Savitri Jindal & family,Hisar,Steel,['Metals & Mining'],India,1795568702170,F,41.09,2026-11-25 06:35:02.170
+72,30800.497,30.800497,Shiv Nadar,Delhi,Software services,['Technology'],India,1795568702170,M,30.8,2026-11-25 06:35:02.170
+74,30320.192,30.320192,Cyrus Poonawalla,Pune,Vaccines,['Healthcare'],India,1795568702170,M,30.32,2026-11-25 06:35:02.170
+86,27366.888,27.366888,Lakshmi Mittal,,Steel,['Metals & Mining'],India,1795568702170,M,27.37,2026-11-25 06:35:02.170
+88,26936.206,26.936206,Dilip Shanghvi,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702170,M,26.94,2026-11-25 06:35:02.170
+114,22490.603,22.490603,Kumar Birla,Mumbai,Diversified,['Diversified'],India,1795568702170,M,22.49,2026-11-25 06:35:02.170
+167,17000.855,17.000854999999998,Murali Divi & family,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702170,M,17.0,2026-11-25 06:35:02.170
+174,16705.261,16.705261,Uday Kotak,Mumbai,Banking,['Finance & Investments'],India,1795568702170,M,16.71,2026-11-25 06:35:02.170
+180,16256.181,16.256181,Kushal Pal Singh,London,Real estate,['Real Estate'],India,1795568702170,M,16.26,2026-11-25 06:35:02.170
+193,15205.56,15.20556,Sunil Mittal,Delhi,Telecom,['Telecom'],India,1795568702170,M,15.21,2026-11-25 06:35:02.170
+217,13629.399,13.629399,Radhakishan Damani,Mumbai,"Retail, investments",['Fashion & Retail'],India,1795568702170,M,13.63,2026-11-25 06:35:02.170
+238,12633.121,12.633121,Vikram Lal & family,Delhi,Motorcycles,['Automotive'],India,1795568702170,M,12.63,2026-11-25 06:35:02.170
+301,11118.217,11.118217000000001,Ravi Jaipuria,Delhi,"Soft drinks, fast food",['Food & Beverage'],India,1795568702170,M,11.12,2026-11-25 06:35:02.170
+333,10266.59,10.26659,Pankaj Patel,Ahmedabad,Pharmaceuticals,['Healthcare'],India,1795568702170,M,10.27,2026-11-25 06:35:02.170
+347,9947.564,9.947564,Rajan Mittal,Delhi,Telecom,['Telecom'],India,1795568702170,M,9.95,2026-11-25 06:35:02.170
+348,9923.709,9.923709,Rakesh Mittal,Delhi,Telecom,['Telecom'],India,1795568702170,M,9.92,2026-11-25 06:35:02.170
+404,8932.727,8.932727000000002,Rekha Jhunjhunwala,Mumbai,Investments,['Finance & Investments'],India,1795568702171,F,8.93,2026-11-25 06:35:02.171
+441,8445.8,8.445799999999998,Hasmukh Chudgar & family,Ahmedabad,Pharmaceuticals,['Healthcare'],India,1795568702171,M,8.45,2026-11-25 06:35:02.171
+459,8190.438,8.190438,Azim Premji,Bangalore,Software services,['Technology'],India,1795568702171,M,8.19,2026-11-25 06:35:02.171
+466,8103.704,8.103704,Venu Srinivasan,Chennai,Two-wheelers,['Automotive'],India,1795568702171,M,8.1,2026-11-25 06:35:02.171
+472,8000.677,8.000677,Sudhir Mehta,Ahmedabad,"Pharmaceuticals, power",['Healthcare'],India,1795568702171,M,8.0,2026-11-25 06:35:02.171
+473,8000.562,8.000562,Samir Mehta,Ahmedabad,"Pharmaceuticals, power",['Healthcare'],India,1795568702171,M,8.0,2026-11-25 06:35:02.171
+487,7864.028,7.864028,Rahul Bhatia,Delhi,Aviation,['Service'],India,1795568702171,M,7.86,2026-11-25 06:35:02.171
+501,7705.752,7.705752,Satyanarayan Nuwal,Nagpur,Industrial explosives,['Manufacturing'],India,1795568702171,M,7.71,2026-11-25 06:35:02.171
+539,7321.628,7.321628,Mangal Prabhat Lodha,Mumbai,Real estate,['Real Estate'],India,1795568702171,M,7.32,2026-11-25 06:35:02.171
+627,6288.247,6.288247,Benu Gopal Bangur,Kolkata,Cement,['Manufacturing'],India,1795568702171,M,6.29,2026-11-25 06:35:02.171
+677,6000.0,6.0,Renuka Jagtiani,Dubai,Retail,['Fashion & Retail'],India,1795568702171,F,6.0,2026-11-25 06:35:02.171
+690,5883.371,5.883371,M.A. Yusuff Ali,Abu Dhabi,Retail,['Fashion & Retail'],India,1795568702171,M,5.88,2026-11-25 06:35:02.171
+703,5838.858,5.838858,Chandru Raheja,Mumbai,Real estate,['Real Estate'],India,1795568702171,M,5.84,2026-11-25 06:35:02.171
+705,5835.723,5.835723,Falguni Nayar,Mumbai,Retailing,['Fashion & Retail'],India,1795568702171,F,5.84,2026-11-25 06:35:02.171
+714,5779.763,5.779763,Rajiv Bajaj,Pune,Diversified,['Diversified'],India,1795568702171,M,5.78,2026-11-25 06:35:02.171
+714,5779.763,5.779763,Sanjiv Bajaj,Pune,Diversified,['Diversified'],India,1795568702171,M,5.78,2026-11-25 06:35:02.171
+719,5745.99,5.74599,Balkrishan Goenka,Mumbai,Diversified,['Manufacturing'],India,1795568702171,M,5.75,2026-11-25 06:35:02.171
+751,5556.885,5.556885,Joy Alukkas,Cochin,Jewelry,['Fashion & Retail'],India,1795568702171,M,5.56,2026-11-25 06:35:02.171
+763,5473.202,5.473202000000001,Vikas Oberoi,Mumbai,Real estate,['Real Estate'],India,1795568702171,M,5.47,2026-11-25 06:35:02.171
+784,5354.342,5.354342,Gopikishan Damani,Mumbai,"Retail, investments",['Fashion & Retail'],India,1795568702171,M,5.35,2026-11-25 06:35:02.171
+796,5259.703,5.259703,Abhay Firodia,Pune,Automobiles,['Automotive'],India,1795568702171,M,5.26,2026-11-25 06:35:02.171
+799,5236.557,5.2365569999999995,Kailashchandra Nuwal,Nagpur,Industrial explosives,['Manufacturing'],India,1795568702171,M,5.24,2026-11-25 06:35:02.171
+804,5192.52,5.19252,Jamshyd Godrej,Mumbai,"Consumer goods, real estate",['Real Estate'],India,1795568702171,M,5.19,2026-11-25 06:35:02.171
+805,5192.515,5.192515,Smita Crishna Godrej,Mumbai,Consumer goods,['Diversified'],India,1795568702171,F,5.19,2026-11-25 06:35:02.171
+821,5096.638,5.096638,B. Partha Saradhi Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702171,M,5.1,2026-11-25 06:35:02.171
+844,4957.904,4.957904,Nirmal Minda,Gurgaon,Auto parts,['Automotive'],India,1795568702171,M,4.96,2026-11-25 06:35:02.171
+866,4850.35,4.850350000000001,Nithin Kamath,Bangalore,Financial services,['Finance & Investments'],India,1795568702172,M,4.85,2026-11-25 06:35:02.172
+867,4847.013,4.847013,Nusli Wadia,Mumbai,Consumer goods,['Food & Beverage'],India,1795568702172,M,4.85,2026-11-25 06:35:02.172
+886,4750.864,4.750864,Baba Kalyani,Pune,Engineering,['Automotive'],India,1795568702172,M,4.75,2026-11-25 06:35:02.172
+916,4611.259,4.611259,Harsh Mariwala,Mumbai,Consumer goods,['Food & Beverage'],India,1795568702172,M,4.61,2026-11-25 06:35:02.172
+930,4511.167,4.511167,Mahendra Choksi & family,Mumbai,Paints,['Manufacturing'],India,1795568702172,M,4.51,2026-11-25 06:35:02.172
+954,4392.079,4.392079,P.V. Ramprasad Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702172,M,4.39,2026-11-25 06:35:02.172
+955,4382.607,4.382607,Karsanbhai Patel,Ahmedabad,"Consumer goods, cement",['Diversified'],India,1795568702172,M,4.38,2026-11-25 06:35:02.172
+969,4338.121,4.338121,Anil Agarwal & family,London,"mining, metals",['Metals & Mining'],India,1795568702172,M,4.34,2026-11-25 06:35:02.172
+972,4308.241,4.308241,Ajay Piramal,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702172,M,4.31,2026-11-25 06:35:02.172
+976,4293.759,4.293759,Prathap Reddy,Chennai,Healthcare,['Healthcare'],India,1795568702172,M,4.29,2026-11-25 06:35:02.172
+1009,4165.886,4.165886,N.R. Narayana Murthy,Bangalore,Software services,['Technology'],India,1795568702172,M,4.17,2026-11-25 06:35:02.172
+1010,4162.617,4.162617,Shekhar Bajaj,Mumbai,Diversified,['Diversified'],India,1795568702172,M,4.16,2026-11-25 06:35:02.172
+1011,4162.587,4.162587,Kumud Bajaj,Mumbai,Diversified,['Diversified'],India,1795568702172,F,4.16,2026-11-25 06:35:02.172
+1011,4162.587,4.162587,Niraj Bajaj,Mumbai,Diversified,['Diversified'],India,1795568702172,M,4.16,2026-11-25 06:35:02.172
+1017,4140.355,4.140355,Ranjan Pai,Bangalore,"Education, healthcare",['Healthcare'],India,1795568702172,M,4.14,2026-11-25 06:35:02.172
+1029,4082.763,4.082763,Anand Mahindra,Mumbai,Diversified,['Diversified'],India,1795568702172,M,4.08,2026-11-25 06:35:02.172
+1032,4069.877,4.069877,Vivek Jain,Delhi,Chemicals,['Manufacturing'],India,1795568702172,M,4.07,2026-11-25 06:35:02.172
+1035,4036.065,4.036065,Ravi Pillai,Dubai,Construction,['Construction & Engineering'],India,1795568702172,M,4.04,2026-11-25 06:35:02.172
+1043,4000.0,4.0,Sunny Varkey,Dubai,Education,['Service'],India,1795568702172,M,4.0,2026-11-25 06:35:02.172
+1051,3966.05,3.96605,T.S. Kalyanaraman,Thrissur,Jewelry,['Fashion & Retail'],India,1795568702172,M,3.97,2026-11-25 06:35:02.172
+1053,3960.905,3.9609050000000003,Nadir Godrej,Mumbai,"Consumer goods, real estate",['Diversified'],India,1795568702172,M,3.96,2026-11-25 06:35:02.172
+1077,3874.799,3.874799,Adi Godrej,Mumbai,Consumer goods,['Diversified'],India,1795568702172,M,3.87,2026-11-25 06:35:02.172
+1082,3832.886,3.832886,G. M. Rao,Bangalore,Infrastructure,['Logistics'],India,1795568702172,M,3.83,2026-11-25 06:35:02.172
+1101,3753.403,3.7534029999999996,Sanjiv Goenka,Kolkata,Diversified,['Diversified'],India,1795568702172,M,3.75,2026-11-25 06:35:02.172
+1110,3722.492,3.7224920000000004,Harish Ahuja,Delhi,Apparel,['Manufacturing'],India,1795568702172,M,3.72,2026-11-25 06:35:02.172
+1135,3627.64,3.62764,Alpana Dangi,Mumbai,Investments,['Finance & Investments'],India,1795568702172,F,3.63,2026-11-25 06:35:02.172
+1146,3593.197,3.593197,Leena Tewari,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702172,F,3.59,2026-11-25 06:35:02.172
+1157,3547.224,3.5472240000000004,Vinod Rai Gupta,Delhi,Electrical equipment,['Manufacturing'],India,1795568702172,F,3.55,2026-11-25 06:35:02.172
+1167,3508.839,3.508839,Madhukar Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795568702172,M,3.51,2026-11-25 06:35:02.172
+1184,3430.048,3.4300479999999998,Atul Ruia,Mumbai,Real estate,['Real Estate'],India,1795568702172,M,3.43,2026-11-25 06:35:02.172
+1216,3364.0,3.364,Arvind Tiku,Singapore,"Renewable energy, real estate",['Energy'],India,1795568702172,M,3.36,2026-11-25 06:35:02.172
+1243,3278.3,3.2783,Shiv Kishan Agrawal,Nagpur,Snacks,['Food & Beverage'],India,1795568702172,M,3.28,2026-11-25 06:35:02.172
+1256,3241.721,3.241721,Satyanarayana Chava,Hyderabad,pharmaceuticals,['Healthcare'],India,1795568702172,M,3.24,2026-11-25 06:35:02.172
+1257,3241.152,3.241152,Ramesh Juneja,Delhi,Pharmaceuticals,['Healthcare'],India,1795568702172,M,3.24,2026-11-25 06:35:02.172
+1265,3206.938,3.206938,Rajan Raheja & family,Mumbai,Diversified,['Diversified'],India,1795568702172,M,3.21,2026-11-25 06:35:02.172
+1278,3186.667,3.186667,Nikhil Kamath,Bangalore,Financial services,['Finance & Investments'],India,1795568702172,M,3.19,2026-11-25 06:35:02.172
+1279,3185.447,3.185447,Rajeev Juneja,Delhi,Phamaceuticals,['Healthcare'],India,1795568702172,M,3.19,2026-11-25 06:35:02.172
+1288,3159.304,3.159304,Anand Deshpande,Pune,Technology,['Technology'],India,1795568702172,M,3.16,2026-11-25 06:35:02.172
+1289,3157.42,3.15742,Senapathy Gopalakrishnan,Bangalore,Software services,['Technology'],India,1795568702172,M,3.16,2026-11-25 06:35:02.172
+1307,3110.129,3.1101289999999997,Mahima Datla,Hyderabad,Vaccines,['Healthcare'],India,1795568702172,F,3.11,2026-11-25 06:35:02.172
+1308,3107.858,3.1078580000000002,Arun Bharat Ram,Delhi,Chemicals,['Manufacturing'],India,1795568702172,M,3.11,2026-11-25 06:35:02.172
+1311,3103.053,3.103053,Kiran Mazumdar-Shaw,,Biopharmaceuticals,['Healthcare'],India,1795568702172,F,3.1,2026-11-25 06:35:02.172
+1336,3051.89,3.0518899999999998,Ajay Bhardwaj,Bangalore,Biopharma,['Healthcare'],India,1795568702172,M,3.05,2026-11-25 06:35:02.172
+1363,2978.091,2.978091,Arvind Poddar,Mumbai,Tires,['Automotive'],India,1795568702173,M,2.98,2026-11-25 06:35:02.173
+1400,2895.0,2.895,Karthik Sarma,New York,Hedge fund,['Finance & Investments'],India,1795568702173,M,2.9,2026-11-25 06:35:02.173
+1409,2875.329,2.8753290000000002,Harindarpal Banga,Hong Kong,Commodities ,['Finance & Investments'],India,1795568702173,M,2.88,2026-11-25 06:35:02.173
+1417,2859.642,2.859642,Raamdeo Agrawal,Mumbai,Financial services,['Finance & Investments'],India,1795568702173,M,2.86,2026-11-25 06:35:02.173
+1437,2811.917,2.8119169999999998,Sunil Vachani,Delhi,Electronics,['Manufacturing'],India,1795568702173,M,2.81,2026-11-25 06:35:02.173
+1438,2808.706,2.808706,Kalanithi Maran,Chennai,Media,['Media & Entertainment'],India,1795568702173,M,2.81,2026-11-25 06:35:02.173
+1440,2806.593,2.806593,M.Satyanarayana Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702173,M,2.81,2026-11-25 06:35:02.173
+1450,2783.829,2.7838290000000003,Harsh Goenka,Mumbai,Diversified,['Diversified'],India,1795568702173,M,2.78,2026-11-25 06:35:02.173
+1451,2783.678,2.783678,Devi Shetty,Bangalore,Healthcare,['Healthcare'],India,1795568702173,M,2.78,2026-11-25 06:35:02.173
+1464,2763.4,2.7634000000000003,Manohar Lal Agarwal,Delhi,Snacks,['Food & Beverage'],India,1795568702173,M,2.76,2026-11-25 06:35:02.173
+1481,2732.233,2.7322330000000004,Sanjeev Bikhchandani,Delhi,Internet,['Technology'],India,1795568702173,M,2.73,2026-11-25 06:35:02.173
+1498,2705.682,2.705682,Lalit Khaitan,Delhi,alcohol,['Food & Beverage'],India,1795568702173,M,2.71,2026-11-25 06:35:02.173
+1523,2641.806,2.641806,Abhay Soi,Mumbai,Healthcare,['Healthcare'],India,1795568702173,M,2.64,2026-11-25 06:35:02.173
+1532,2618.789,2.618789,Surender Saluja,Hyderabad,Solar energy,['Energy'],India,1795568702173,M,2.62,2026-11-25 06:35:02.173
+1542,2600.772,2.600772,Satish Mehta,Pune,Pharmaceuticals,['Healthcare'],India,1795568702173,M,2.6,2026-11-25 06:35:02.173
+1559,2577.766,2.577766,Lachhman Das Mittal,Delhi,Tractors,['Automotive'],India,1795568702173,M,2.58,2026-11-25 06:35:02.173
+1571,2561.246,2.561246,Yusuf Hamied,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702173,M,2.56,2026-11-25 06:35:02.173
+1573,2556.313,2.5563130000000003,Gurbachan Singh Dhingra,Delhi,Paints,['Manufacturing'],India,1795568702173,M,2.56,2026-11-25 06:35:02.173
+1573,2556.313,2.5563130000000003,Kuldip Singh Dhingra,Delhi,Paints,['Manufacturing'],India,1795568702173,M,2.56,2026-11-25 06:35:02.173
+1587,2534.702,2.5347020000000002,Nandan Nilekani,Bangalore,Software services,['Technology'],India,1795568702173,M,2.53,2026-11-25 06:35:02.173
+1593,2522.244,2.522244,Prem Kumar Arora,Delhi,Pharmaceuticals,['Healthcare'],India,1795568702173,M,2.52,2026-11-25 06:35:02.173
+1608,2493.888,2.493888,Pavan Jain,Delhi,Chemicals,['Manufacturing'],India,1795568702173,M,2.49,2026-11-25 06:35:02.173
+1614,2476.417,2.476417,Motilal Oswal,Mumbai,Financial services,['Finance & Investments'],India,1795568702173,M,2.48,2026-11-25 06:35:02.173
+1647,2417.622,2.4176219999999997,Aditya Khemka,Delhi,Security solutions,['Manufacturing'],India,1795568702173,M,2.42,2026-11-25 06:35:02.173
+1663,2393.44,2.39344,Ajay Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795568702173,M,2.39,2026-11-25 06:35:02.173
+1670,2376.286,2.376286,Narendrakumar Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795568702173,M,2.38,2026-11-25 06:35:02.173
+1695,2345.704,2.345704,Rishad Naoroji,Mumbai,"Consumer goods, real estate",['Diversified'],India,1795568702173,M,2.35,2026-11-25 06:35:02.173
+1714,2309.772,2.3097719999999997,Acharya Balkrishna,Haridwar,Consumer goods,['Food & Beverage'],India,1795568702173,M,2.31,2026-11-25 06:35:02.173
+1731,2290.28,2.29028,Manoj Upadhyay,Gurgaon,solar energy,['Energy'],India,1795568702173,M,2.29,2026-11-25 06:35:02.173
+1761,2261.198,2.261198,Jupally Rameshwar Rao,Hyderabad,Real estate,['Real Estate'],India,1795568702173,M,2.26,2026-11-25 06:35:02.173
+1774,2250.182,2.2501819999999997,T. Satishkumar,Erode,Dairy products,['Food & Beverage'],India,1795568702173,M,2.25,2026-11-25 06:35:02.173
+1782,2240.971,2.240971,Anurang Jain,Aurangabad,Auto parts,['Manufacturing'],India,1795568702173,M,2.24,2026-11-25 06:35:02.173
+1791,2222.256,2.222256,Anu Aga,Pune,Engineering,['Construction & Engineering'],India,1795568702173,F,2.22,2026-11-25 06:35:02.173
+1829,2170.336,2.170336,Inder Jaisinghani,Mumbai,Cables & wires,['Manufacturing'],India,1795568702173,M,2.17,2026-11-25 06:35:02.173
+1830,2170.055,2.1700549999999996,Kishore Jain,Chennai,Jewellery,['Fashion & Retail'],India,1795568702173,M,2.17,2026-11-25 06:35:02.173
+1841,2154.338,2.154338,Kabir Mulchandani,Dubai,Real estate,['Real Estate'],India,1795568702173,M,2.15,2026-11-25 06:35:02.173
+1854,2146.044,2.146044,Bhadresh Shah,Ahmedabad,Engineering,['Manufacturing'],India,1795568702174,M,2.15,2026-11-25 06:35:02.174
+1876,2120.127,2.120127,Basudeo Singh,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702174,M,2.12,2026-11-25 06:35:02.174
+1880,2118.301,2.1183009999999998,George Alexander Muthoot,Ernakulam,Financial services,['Finance & Investments'],India,1795568702174,M,2.12,2026-11-25 06:35:02.174
+1880,2118.301,2.1183009999999998,George Jacob Muthoot,Trivandrum,Financial services,['Finance & Investments'],India,1795568702174,M,2.12,2026-11-25 06:35:02.174
+1880,2118.301,2.1183009999999998,George Thomas Muthoot,Kottayam,Financial services,['Finance & Investments'],India,1795568702174,M,2.12,2026-11-25 06:35:02.174
+1880,2118.301,2.1183009999999998,Sara George Muthoot,Delhi,Financial services,['Finance & Investments'],India,1795568702174,F,2.12,2026-11-25 06:35:02.174
+1893,2105.077,2.105077,Ramesh Jaisinghani,Mumbai,Cables and wires,['Manufacturing'],India,1795568702174,M,2.11,2026-11-25 06:35:02.174
+1895,2103.198,2.103198,Ajay Jaisinghani,Mumbai,Wires and cables,['Manufacturing'],India,1795568702174,M,2.1,2026-11-25 06:35:02.174
+1899,2100.0,2.1,Aravind Srinivas,San Francisco,Artificial intelligence ,['Technology'],India,1795568702174,M,2.1,2026-11-25 06:35:02.174
+1907,2097.019,2.097019,Arvind Lal,Delhi,Medical diagnostics,['Healthcare'],India,1795568702174,M,2.1,2026-11-25 06:35:02.174
+1920,2088.813,2.088813,Deepinder Goyal,Gurgaon,Food delivery service,['Service'],India,1795568702174,M,2.09,2026-11-25 06:35:02.174
+1923,2083.356,2.083356,Radha Vembu,Chennai,Business software,['Technology'],India,1795568702174,F,2.08,2026-11-25 06:35:02.174
+1926,2075.319,2.075319,Mrudula Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795568702174,F,2.08,2026-11-25 06:35:02.174
+1940,2065.326,2.065326,Vivek Chand Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795568702174,M,2.07,2026-11-25 06:35:02.174
+1948,2047.071,2.047071,K. Dinesh,Bangalore,Software services,['Technology'],India,1795568702174,M,2.05,2026-11-25 06:35:02.174
+1957,2036.773,2.0367729999999997,G. Rajendran,Chennai,Jewellery,['Fashion & Retail'],India,1795568702174,M,2.04,2026-11-25 06:35:02.174
+1976,2021.76,2.02176,Bina Chhabria,Mumbai,Alcoholic beverages,['Food & Beverage'],India,1795568702174,F,2.02,2026-11-25 06:35:02.174
+1979,2020.602,2.0206020000000002,Anju Agarwal,Chennai,Pharmaceuticals,['Healthcare'],India,1795568702174,F,2.02,2026-11-25 06:35:02.174
+1983,2015.435,2.015435,Hemendra Kothari,Mumbai,Financial services,['Finance & Investments'],India,1795568702174,M,2.02,2026-11-25 06:35:02.174
+1994,2007.755,2.007755,P.V. Krishna Reddy,Hyderabad,Infrastructure,['Construction & Engineering'],India,1795568702174,M,2.01,2026-11-25 06:35:02.174
+2039,1962.813,1.9628130000000001,Sandeep Engineer,Ahmedabad,Plastic pipes,['Manufacturing'],India,1795568702174,M,1.96,2026-11-25 06:35:02.174
+2041,1960.329,1.960329,Pawan Munjal,Delhi,Motorcycles,['Automotive'],India,1795568702174,M,1.96,2026-11-25 06:35:02.174
+2049,1957.362,1.957362,Shamsheer Vayalil,Abu Dhabi,Healthcare,['Healthcare'],India,1795568702174,M,1.96,2026-11-25 06:35:02.174
+2057,1949.908,1.949908,Azad Moopen,Dubai,Healthcare,['Healthcare'],India,1795568702174,M,1.95,2026-11-25 06:35:02.174
+2074,1932.882,1.932882,P.P. Reddy,Hyderabad,Infrastructure,['Construction & Engineering'],India,1795568702174,M,1.93,2026-11-25 06:35:02.174
+2083,1919.958,1.919958,R.G. Chandramogan,Chennai,Dairy,['Food & Beverage'],India,1795568702174,M,1.92,2026-11-25 06:35:02.174
+2118,1878.452,1.878452,Suman Munjal,Delhi,Motorcycles,['Automotive'],India,1795568702174,M,1.88,2026-11-25 06:35:02.174
+2120,1875.39,1.8753900000000001,Rafique Malik,Mumbai,Footwear,['Fashion & Retail'],India,1795568702174,M,1.88,2026-11-25 06:35:02.174
+2124,1873.541,1.873541,Girdhari Lal Bawri,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.87,2026-11-25 06:35:02.174
+2128,1870.735,1.8707349999999998,Renu Munjal,Delhi,Motorcycles,['Automotive'],India,1795568702174,F,1.87,2026-11-25 06:35:02.174
+2133,1867.93,1.86793,Habil Khorakiwala,Mumbai,pharmaceuticals,['Healthcare'],India,1795568702174,M,1.87,2026-11-25 06:35:02.174
+2141,1856.426,1.856426,Premchand Godha,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.86,2026-11-25 06:35:02.174
+2184,1818.546,1.818546,Banwari Lal Bawri,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.82,2026-11-25 06:35:02.174
+2208,1800.846,1.800846,Jitendra Virwani,Bangalore,Real estate,['Real Estate'],India,1795568702174,M,1.8,2026-11-25 06:35:02.174
+2226,1796.582,1.7965820000000001,Chirayu Amin,Baroda,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.8,2026-11-25 06:35:02.174
+2233,1791.577,1.791577,Ashwin Desai,Surat,Specialty chemicals,['Manufacturing'],India,1795568702174,M,1.79,2026-11-25 06:35:02.174
+2241,1784.923,1.784923,Chaitanya Desai,Mumbai,Electric cables,['Manufacturing'],India,1795568702174,M,1.78,2026-11-25 06:35:02.174
+2241,1784.923,1.784923,Kushal Desai,Mumbai,Electrical cables,['Manufacturing'],India,1795568702174,M,1.78,2026-11-25 06:35:02.174
+2264,1763.3,1.7632999999999999,Kapil Bhatia,Delhi,Aviation,['Service'],India,1795568702174,M,1.76,2026-11-25 06:35:02.174
+2268,1758.199,1.758199,Girdhari Jaisinghani,Mumbai,Cables & wires,['Manufacturing'],India,1795568702174,M,1.76,2026-11-25 06:35:02.174
+2307,1724.89,1.72489,Vijay Shekhar Sharma,Delhi,financial technology,['Service'],India,1795568702174,M,1.72,2026-11-25 06:35:02.174
+2314,1716.6,1.7166,Madhusudan Agarwal,New Dehli,Indian sweets and snacks,['Food & Beverage'],India,1795568702174,M,1.72,2026-11-25 06:35:02.174
+2315,1715.562,1.7155619999999998,Ronnie Screwvala,Mumbai,"edtech, entertainment",['Media & Entertainment'],India,1795568702174,M,1.72,2026-11-25 06:35:02.174
+2344,1679.471,1.679471,Surjit Kumar Gupta,Delhi,Electrical equipment,['Manufacturing'],India,1795568702174,M,1.68,2026-11-25 06:35:02.174
+2354,1665.381,1.665381,G.V. Prasad,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.67,2026-11-25 06:35:02.174
+2355,1664.712,1.664712,Shrikant Badve,Pune,auto parts,['Automotive'],India,1795568702174,M,1.66,2026-11-25 06:35:02.174
+2356,1663.164,1.663164,Satish Reddy,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702174,M,1.66,2026-11-25 06:35:02.174
+2361,1660.651,1.660651,Sachin Agarwal,Lucknow,Metal castings,['Manufacturing'],India,1795568702174,M,1.66,2026-11-25 06:35:02.174
+2389,1632.712,1.632712,D.V. Manjunatha,Bangalore,Solar panels,['Energy'],India,1795568702174,M,1.63,2026-11-25 06:35:02.174
+2390,1631.159,1.631159,Irfan Razack,Bangalore,Real estate,['Real Estate'],India,1795568702174,M,1.63,2026-11-25 06:35:02.174
+2391,1631.141,1.6311410000000002,Noaman Razack,Bangalore,Real estate,['Real Estate'],India,1795568702174,M,1.63,2026-11-25 06:35:02.174
+2391,1631.141,1.6311410000000002,Rezwan Razack,Bangalore,Real estate,['Real Estate'],India,1795568702174,M,1.63,2026-11-25 06:35:02.174
+2417,1613.856,1.613856,Sanjay Agarwal,Jaipur,Banking,['Finance & Investments'],India,1795568702174,M,1.61,2026-11-25 06:35:02.174
+2442,1595.194,1.595194,Shyam Bhartia,Delhi,"Pharmaceuticals, food",['Healthcare'],India,1795568702174,M,1.6,2026-11-25 06:35:02.174
+2445,1592.339,1.592339,Hari Bhartia,Delhi,Diversified,['Diversified'],India,1795568702174,M,1.59,2026-11-25 06:35:02.174
+2449,1589.625,1.589625,Kiran Kumar Jain,Chennai,Gold jewelry retailing,['Fashion & Retail'],India,1795568702174,M,1.59,2026-11-25 06:35:02.174
+2450,1588.254,1.5882539999999998,Alakh Pandey,Noida,Edtech,['Technology'],India,1795568702174,M,1.59,2026-11-25 06:35:02.174
+2450,1588.254,1.5882539999999998,Prateek Boob,Noida,Edtech,['Technology'],India,1795568702174,M,1.59,2026-11-25 06:35:02.174
+2466,1573.732,1.573732,S.D. Shibulal,Bangalore,Software services,['Technology'],India,1795568702174,M,1.57,2026-11-25 06:35:02.174
+2520,1535.178,1.5351780000000002,Anand Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795568702174,M,1.54,2026-11-25 06:35:02.174
+2523,1534.187,1.534187,Sekar Vembu,Chennai,Business software,['Technology'],India,1795568702174,M,1.53,2026-11-25 06:35:02.174
+2558,1503.029,1.503029,Naresh Jain,Mumbai,Auto components,['Automotive'],India,1795568702175,M,1.5,2026-11-25 06:35:02.175
+2561,1500.0,1.5,Prasanna Sankar,Singapore,software,['Technology'],India,1795568702175,M,1.5,2026-11-25 06:35:02.175
+2579,1492.965,1.4929649999999999,Saroj Rani Gupta,Delhi,Steel tubes,['Manufacturing'],India,1795568702175,F,1.49,2026-11-25 06:35:02.175
+2599,1476.76,1.47676,Aloke Lohia,Bangkok,Petrochemicals,['Manufacturing'],India,1795568702175,M,1.48,2026-11-25 06:35:02.175
+2600,1475.731,1.475731,Onkar Kanwar,Delhi,Tires,['Automotive'],India,1795568702175,M,1.48,2026-11-25 06:35:02.175
+2616,1461.384,1.461384,Paritosh Garg,Ludhiana,Manufacturing,['Manufacturing'],India,1795568702175,M,1.46,2026-11-25 06:35:02.175
+2617,1461.019,1.461019,Rajeev Gulati,Delhi,Food,['Food & Beverage'],India,1795568702175,M,1.46,2026-11-25 06:35:02.175
+2650,1432.06,1.4320599999999999,Naresh Trehan,Delhi,Hospitals,['Healthcare'],India,1795568702175,M,1.43,2026-11-25 06:35:02.175
+2651,1431.92,1.43192,Ravi Modi,Kolkata,Readymade garments,['Fashion & Retail'],India,1795568702175,M,1.43,2026-11-25 06:35:02.175
+2669,1415.267,1.415267,Rahul Dhoot,Aurangabad,Auto components,['Automotive'],India,1795568702175,M,1.42,2026-11-25 06:35:02.175
+2674,1410.163,1.410163,Binny Bansal,Singapore,Flipkart,['Technology'],India,1795568702175,M,1.41,2026-11-25 06:35:02.175
+2682,1406.693,1.406693,Nanu Gupta,Mumbai,Retail,['Fashion & Retail'],India,1795568702175,M,1.41,2026-11-25 06:35:02.175
+2686,1404.272,1.404272,Anil Gupta,New Delhi,Cables,['Manufacturing'],India,1795568702175,M,1.4,2026-11-25 06:35:02.175
+2721,1382.94,1.38294,Viren Doshi,Mumbai,Solar modules,['Energy'],India,1795568702175,M,1.38,2026-11-25 06:35:02.175
+2722,1382.682,1.382682,Rajesh Sharma,Mumbai,Finance,['Finance & Investments'],India,1795568702175,M,1.38,2026-11-25 06:35:02.175
+2748,1358.631,1.3586310000000001,Aluru Jagadish Prasad,Hyderabad,Batteries,['Manufacturing'],India,1795568702175,M,1.36,2026-11-25 06:35:02.175
+2770,1342.242,1.342242,Mofatraj Munot,Mumbai,Real estate,['Real Estate'],India,1795568702175,M,1.34,2026-11-25 06:35:02.175
+2775,1340.606,1.340606,Bhikhabai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795568702175,M,1.34,2026-11-25 06:35:02.175
+2806,1322.062,1.3220619999999998,Subbamma Jasti,Hyderabad,Pharmaceuticals,['Healthcare'],India,1795568702175,F,1.32,2026-11-25 06:35:02.175
+2821,1313.881,1.313881,Ravi S.,Coimbatore,Automotive components,['Automotive'],India,1795568702175,M,1.31,2026-11-25 06:35:02.175
+2838,1302.518,1.302518,Lalit Keshre,Mumbai,Financial Services,['Finance & Investments'],India,1795568702175,M,1.3,2026-11-25 06:35:02.175
+2847,1293.901,1.293901,Dhruv Sawhney,Dubai,"Engineering, sugar",['Construction & Engineering'],India,1795568702175,M,1.29,2026-11-25 06:35:02.175
+2859,1286.351,1.286351,Krishna Kumar Bangur,Kolkata,Graphite electrodes,['Manufacturing'],India,1795568702175,M,1.29,2026-11-25 06:35:02.175
+2869,1276.368,1.276368,Bhaskara Rao Bollineni,Hyderabad,Healthcare,['Healthcare'],India,1795568702175,M,1.28,2026-11-25 06:35:02.175
+2892,1259.332,1.2593320000000001,Vidit Aatrey,Bangalore,E-commerce,['Fashion & Retail'],India,1795568702175,M,1.26,2026-11-25 06:35:02.175
+2896,1257.285,1.257285,Salil Singhal,Delhi,Agrochemicals,['Manufacturing'],India,1795568702175,M,1.26,2026-11-25 06:35:02.175
+2913,1249.935,1.249935,Ranga Raju Kanumuri,Hyderabad,Pharma,['Healthcare'],India,1795568702175,M,1.25,2026-11-25 06:35:02.175
+2928,1230.765,1.230765,Sujit Bhayani,Vadodara,Specialty chemicals,['Healthcare'],India,1795568702175,M,1.23,2026-11-25 06:35:02.175
+2937,1225.48,1.2254800000000001,Peyush Bansal,Faridabad,Retail,['Fashion & Retail'],India,1795568702175,M,1.23,2026-11-25 06:35:02.175
+2944,1221.345,1.2213450000000001,Rajju Shroff,Mumbai,Agrochemicals,['Manufacturing'],India,1795568702175,M,1.22,2026-11-25 06:35:02.175
+2966,1206.611,1.206611,Vinod Saraf,Mumbai,Chemicals,['Manufacturing'],India,1795568702175,M,1.21,2026-11-25 06:35:02.175
+2974,1202.858,1.202858,Hitesh Doshi,Mumbai,Solar panels,['Energy'],India,1795568702175,M,1.2,2026-11-25 06:35:02.175
+2978,1201.619,1.201619,Mustafa Hamied,Mumbai,Pharmaceuticals,['Healthcare'],India,1795568702175,M,1.2,2026-11-25 06:35:02.175
+2979,1201.237,1.201237,Pankaj Doshi,Mumbai,Solar panels,['Energy'],India,1795568702175,M,1.2,2026-11-25 06:35:02.175
+2994,1191.774,1.191774,Sanjeev Shah,Mumbai,Foods ,['Food & Beverage'],India,1795568702175,M,1.19,2026-11-25 06:35:02.175
+3023,1173.786,1.173786,C.C. Paarthipan,Chennai,pharmaceuticals,['Healthcare'],India,1795568702175,M,1.17,2026-11-25 06:35:02.175
+3026,1169.77,1.16977,Sachin Bansal,Bangalore,Flipkart,['Fashion & Retail'],India,1795568702175,M,1.17,2026-11-25 06:35:02.175
+3062,1147.033,1.147033,Ramesh Kunhikannan,Mysore,Electronics ,['Manufacturing'],India,1795568702176,M,1.15,2026-11-25 06:35:02.176
+3087,1129.256,1.129256,Suresh Krishna,Chennai,Auto parts,['Automotive'],India,1795568702176,M,1.13,2026-11-25 06:35:02.176
+3105,1120.632,1.120632,Kalpana Parekh,Mumbai,Adhesives,['Manufacturing'],India,1795568702176,F,1.12,2026-11-25 06:35:02.176
+3116,1117.166,1.1171659999999999,Chandubhai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795568702176,M,1.12,2026-11-25 06:35:02.176
+3116,1117.166,1.1171659999999999,Kanjibhai Virani,Rajkot,Snacks,['Food & Beverage'],India,1795568702176,M,1.12,2026-11-25 06:35:02.176
+3118,1115.019,1.115019,Kochouseph Chittilappilly,Kochi,Electrical appliances,['Manufacturing'],India,1795568702176,M,1.12,2026-11-25 06:35:02.176
+3145,1097.931,1.097931,Deepak Mehta,Vadodara,Chemicals,['Manufacturing'],India,1795568702176,M,1.1,2026-11-25 06:35:02.176
+3181,1076.688,1.076688,Kuldip Rathee,New Delhi,Auto ancillaries,['Automotive'],India,1795568702176,M,1.08,2026-11-25 06:35:02.176
+3183,1074.849,1.074849,Kirtikumar Mehta,Ahmedabad,Pharma,['Healthcare'],India,1795568702176,,1.07,2026-11-25 06:35:02.176
+3229,1044.376,1.044376,Kirit Doshi,Mumbai,Solar modules,['Energy'],India,1795568702176,M,1.04,2026-11-25 06:35:02.176
+3244,1035.08,1.03508,Parakramsinh Jadeja,Rajkot,Manufacturing,['Manufacturing'],India,1795568702176,M,1.04,2026-11-25 06:35:02.176
+3246,1033.394,1.033394,Analjit Singh,Delhi,Diversified,['Diversified'],India,1795568702176,M,1.03,2026-11-25 06:35:02.176
+3249,1031.325,1.031325,Harshil Mathur,Bangalore,Fintech,['Finance & Investments'],India,1795568702176,M,1.03,2026-11-25 06:35:02.176
+3249,1031.325,1.031325,Shashank Kumar,Bangalore,Fintech,['Finance & Investments'],India,1795568702176,M,1.03,2026-11-25 06:35:02.176
+3265,1020.495,1.020495,Ashok Kajaria,Delhi,Tiles,['Manufacturing'],India,1795568702176,M,1.02,2026-11-25 06:35:02.176
+3267,1019.293,1.019293,Amit Burman,Delhi,Consumer goods,['Food & Beverage'],India,1795568702176,M,1.02,2026-11-25 06:35:02.176
+3273,1014.223,1.0142229999999999,Vijay Agarwal,Faridabad,Construction equipment,['Automotive'],India,1795568702176,M,1.01,2026-11-25 06:35:02.176
+3286,1001.239,1.001239,Rameshchandra Jain,Mumbai,Textiles,['Manufacturing'],India,1795568702176,M,1.0,2026-11-25 06:35:02.176
